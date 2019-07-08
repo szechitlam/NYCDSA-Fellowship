@@ -1,7 +1,9 @@
 # my_movie_critic
+
 Pixar Movies Exploration and Analysis <br>
 Author: Nelson Lam <br>
-szechitlam@gmail.com <br>
+email: szechitlam@gmail.com <br>
 
-The analysis could be viewed in the Jupyter Notebook. <br>
-The data was collected by the scrapy scripts contained in the folder.
+Data was scraped using Scrapy using Python during early July 2019. <br>
+All analysis are presented in the Jupyter Notebook. <br>
+The scripts used to scrape the data could be found inside the "My Tomato" folder.
