@@ -1,6 +1,6 @@
 # price_predict
 
-PAmes Housing Price Prediction <br>
+Ames Housing Price Prediction <br>
 Author: Nelson Lam <br>
 email: szechitlam@gmail.com <br>
 
