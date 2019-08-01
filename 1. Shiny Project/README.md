@@ -1,6 +1,6 @@
-Data visualization on suicide data
-Author: Nelson Lam 
-email: szechitlam@gmail.com 
+Data visualization on suicide data <br>
+Author: Nelson Lam <br>
+email: szechitlam@gmail.com <br>
 
 # Description
 
