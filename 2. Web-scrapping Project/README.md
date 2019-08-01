@@ -1,8 +1,8 @@
-# my_movie_critic
-
 Pixar Movies Exploration and Analysis <br>
 Author: Nelson Lam <br>
 email: szechitlam@gmail.com <br>
+
+# Description
 
 Data was scraped using Scrapy using Python during early July 2019. <br>
 All analysis are presented in the Jupyter Notebook. <br>
