@@ -1,3 +1,7 @@
+Data visualization on suicide data
+Author: Nelson Lam 
+email: szechitlam@gmail.com 
+
 # Description
 
 This project is about data visualization on suicide data retrieved on Kaggle. <br>
