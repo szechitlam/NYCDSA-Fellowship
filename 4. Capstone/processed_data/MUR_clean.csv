@@ -1,0 +1,17 @@
+,doc_id,datetime_1,datetime_1_type,vol_1,vol_1_type,price_1,price_1_type,instrument_type,product_type,price_2,price_2_type
+2,MUR20140228,January March 2014,",dates",20000,"volumes,(barrels per day)",$98.47perbarrel,",swap prices",swap,oil,,
+3,MUR20140228,April June 2014,",dates",20000,"volumes,(barrels per day)",$96.48perbarrel,",swap prices",swap,oil,,
+4,MUR20140228,July September 2014,",dates",7000,"volumes,(barrels per day)",$95.24perbarrel,",swap prices",swap,oil,,
+1,MUR20140228,Jan. Feb. 2014,dates,20000 bbls/d,averagevolumes per day,$98.47 per bbl.,average prices,@,oil,,
+2,MUR20140228,Mar. 2014,dates,33000 bbls/d,averagevolumes per day,$98.03 per bbl.,average prices,@,oil,,
+3,MUR20140228,Apr. Jun. 2014,dates,24000 bbls/d,averagevolumes per day,$96.41 per bbl.,average prices,@,oil,,
+4,MUR20140228,Jul. Sep. 2014,dates,20000 bbls/d,averagevolumes per day,$94.32 per bbl.,average prices,@,oil,,
+5,MUR20140228,Oct. Dec. 2014,dates,12000 bbls/d,averagevolumes per day,$91.72 per bbl.,average prices,@,oil,,
+7,MUR20140228,Feb. Mar. 2014,dates,4000 bbls/d,averagevolumes per day,$48.89 per bbl.,average prices,@,oil,,
+8,MUR20140228,Apr. Jun. 2014,dates,2000 bbls/d,averagevolumes per day,$55.01 per bbl.,average prices,@,oil,,
+10,MUR20140228,Jan. 2014,dates,80 mmcf/d,averagevolumes per day,C$3.98 per mcf,average prices,@,natural gas liquid,,
+11,MUR20140228,Feb. Dec. 2014,dates,110 mmcf/d,averagevolumes per day,C$4.04 per mcf,average prices,@,natural gas liquid,,
+12,MUR20140228,Jan. Dec. 2015,dates,38 mmcf/d,averagevolumes per day,C$4.05 per mcf,average prices,@,natural gas liquid,,
+15,MUR20140228,April 2014,dates,,,"$44,458,000",u.s. dollars,swap,,"MYR149,000,000",malaysian ringgits
+16,MUR20140228,May 2014,dates,,,44698000,u.s. dollars,@,,"MYR149,000,000",malaysian ringgits
+17,MUR20140228,June 2014,dates,,,44339000,u.s. dollars,@,,"MYR149,000,000",malaysian ringgits

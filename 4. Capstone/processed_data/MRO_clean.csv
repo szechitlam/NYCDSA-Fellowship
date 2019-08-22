@@ -1,0 +1,41 @@
+,doc_id,datetime_1,datetime_1_type,vol_1,vol_1_type,price_1,price_1_type,product_type,instrument_type,additional,price_2,price_2_type,price_3,price_3_type,vol_2,vol_2_type,price_4,price_4_type
+3,MRO20040309,January December 2004,"period,",23 mmcfd,"daily volume(b),",$7.15|$4.25 mcf,"average price,",natural gas,collar,,,,,,,,,
+4,MRO20040309,January December 2004,"period,",50 mmcfd,"daily volume(b),",$5.02 mcf,"average price,",natural gas,swap,,,,,,,,,
+6,MRO20040309,2004,"period,",44 mbpd,"daily volume(b),",$29.67|$24.26 bbl,"average price,",crude oil,collar,,,,,,,,,
+4,MRO20080229,,,call options sold,",option contract volumes (barrels per day),put options purchased",,,oil,call,,,,,,,,,
+6,MRO20080229,,,Put Options,",option contract volumes (barrels per day),put options purchased",,,oil,"put option, put",average exercise price ,,,,,,,,
+7,MRO20080229,,,Call Options,",option contract volumes (barrels per day),put options purchased",,,oil,call,average exercise price ,,,,,,,,
+5,MRO20090227,,,Put options,"option expiration dateoption contract volumes (barrels per day),put options purchased",,,oil,call options sold,average exercise price ,,,,,,,,
+6,MRO20090227,,,Call options,"option expiration dateoption contract volumes (barrels per day),put options purchased",,,oil,call options sold,average exercise price ,,,,,,,,
+2,MRO20100226,January - June 2010,term,35000,bbls per day,$80.77,weighted averageswap price,crude oil,swap,,,,,,,,,
+3,MRO20100226,January - June 2010,term,30000,bbls per day,$80.42,weighted averageswap price,crude oil,swap,,,,,,,,,
+4,MRO20100226,January - December 2010,term,25000,bbls per day,$82.56,weighted averageswap price,crude oil,swap,,,,,,,,,
+8,MRO20100226,January - December 2010,term,80000,mmbtu per day,$5.39,weighted averageswap price,natural gas,swap,,,,,,,,,
+9,MRO20100226,January - December 2010,term,30000,mmbtu per day,$5.59,weighted averageswap price,natural gas,swap,,,,,,,,,
+2,MRO20100226,,,61677,bbls per day,$76.67,weighted average price,crude oil,@,,,,,,,,,
+3,MRO20100226,,,Neg54395,bbls per day,$76.85,weighted average price,crude oil,@,,,,,,,,,
+7,MRO20100226,Long,term,11773,bbls per day,$2.00,weighted averageswap price,refined products,swap,,,,,,,,,
+8,MRO20100226,Short,term,Neg17030,bbls per day,$2.00,weighted averageswap price,refined products,swap,,,,,,,,,
+3,MRO20130222,January 2013 - December 2013,",remaining term",20000,",bbls per day",$96.29,",weighted average price per bbl",oil,swaps,,,,,,,,,
+4,MRO20130222,January 2013 - December 2013,",remaining term",25000,",bbls per day",$109.19,",weighted average price per bbl",oil,swaps,,,,,,,,,
+6,MRO20130222,January 2013 - December 2013,",remaining term",15000,",bbls per day",$90.00 floor / $101.17 ceiling,",weighted average price per bbl",oil,option collars,,,,,,,,,
+7,MRO20130222,January 2013 - December 2013,",remaining term",15000,",bbls per day",$100.00 floor / $116.30 ceiling,",weighted average price per bbl",oil,option collars,,,,,,,,,
+4,MRO20160225,January - March 2016 ,remaining term,10000,barrels per day,$50.20,weighted average price,oil,three-way collars,,,,,,,,,
+5,MRO20160225,January - March 2016 ,remaining term,10000,barrels per day,$41.60,weighted average price,oil,three-way collars,,,,,,,,,
+8,MRO20160225,January- December 2016,remaining term,12000,barrels per day,$60.48,weighted average price,oil,three-way collars,,,,,,,,,
+9,MRO20160225,January- December 2016,remaining term,12000,barrels per day,$50.00,weighted average price,oil,three-way collars,,,,,,,,,
+12,MRO20160225,January- June 2016 ,remaining term,2000,barrels per day,$65.00,weighted average price,oil,three-way collars,,,,,,,,,
+13,MRO20160225,January- June 2016 ,remaining term,2000,barrels per day,$50.00,weighted average price,oil,three-way collars,,,,,,,,,
+14,MRO20160225,January- December 2016 ,remaining term,10000,barrels per day,$72.39,weighted average price,oil,three-way collars,,,,,,,,,
+0,MRO20170224,",natural gas,2017,first quarter,",index,60000,"volume (mmbtu/day),,",$3.46,"ceiling,price per mmbtu,",natural gas,"collar, put, swap",,$2.84,"floor,price per mmbtu,",$2.35,"sold put,price per mmbtu,",20000,"volume (mmbtu/day),price per mmbtu,swap",2.93,"price per mmbtu,price per mmbtu,swap"
+1,MRO20170224,",natural gas,2017,third quarter,",index,90000,"volume (mmbtu/day),,",$3.54,"ceiling,price per mmbtu,",natural gas,"collar, put, swap",,$3.01,"floor,price per mmbtu,",$2.48,"sold put,price per mmbtu,",20000,"volume (mmbtu/day),price per mmbtu,swap",2.93,"price per mmbtu,price per mmbtu,swap"
+2,MRO20170224,",natural gas,2017,fourth quarter,",index,90000,"volume (mmbtu/day),,",$3.61,"ceiling,price per mmbtu,",natural gas,"collar, put, swap",,$3.04,"floor,price per mmbtu,",$2.52,"sold put,price per mmbtu,",20000,"volume (mmbtu/day),price per mmbtu,swap",2.93,"price per mmbtu,price per mmbtu,swap"
+3,MRO20170224,",natural gas,2018,,",index,20000,"volume (mmbtu/day),,",$3.56,"ceiling,price per mmbtu,",natural gas,"collar, put, swap",,$3.00,"floor,price per mmbtu,",$2.50,"sold put,price per mmbtu,",,"volume (mmbtu/day),price per mmbtu,swap",,"price per mmbtu,price per mmbtu,swap"
+0,MRO20170224,",crude oil (a),2017,first quarter,",index,50000,"volume (bbls/day),,",$58.42,"ceiling,price per bbl,",oil,"collar, put, call",,$50.30,"floor,price per bbl,",$43.50,"sold put,price per bbl,",35000,"volume (bbls/day),price per bbl,sold call options (c)",$61.91,"price per bbl,price per bbl,sold call options (c)"
+1,MRO20170224,",crude oil (a),2017,second quarter,",index,50000,"volume (bbls/day),,",$58.42,"ceiling,price per bbl,",oil,"collar, put, call",,$50.30,"floor,price per bbl,",$43.50,"sold put,price per bbl,",35000,"volume (bbls/day),price per bbl,sold call options (c)",$61.91,"price per bbl,price per bbl,sold call options (c)"
+2,MRO20170224,",crude oil (a),2017,third quarter,",index,30000,"volume (bbls/day),,",$59.60,"ceiling,price per bbl,",oil,"collar, put, call",,$54.00,"floor,price per bbl,",$47.00,"sold put,price per bbl,",35000,"volume (bbls/day),price per bbl,sold call options (c)",$61.91,"price per bbl,price per bbl,sold call options (c)"
+3,MRO20170224,",crude oil (a),2017,fourth quarter,",index,30000,"volume (bbls/day),,",$59.60,"ceiling,price per bbl,",oil,"collar, put, call",,$54.00,"floor,price per bbl,",$47.00,"sold put,price per bbl,",35000,"volume (bbls/day),price per bbl,sold call options (c)",$61.91,"price per bbl,price per bbl,sold call options (c)"
+0,MRO20170224,",natural gas,2017,first quarter,",index,60000,"volume (mmbtu/day),,",$3.46,"ceiling,price per mmbtu,",natural gas,"collar, put, swap",,$2.84,"floor,price per mmbtu,",$2.35,"sold put,price per mmbtu,",20000,"volume (mmbtu/day),price per mmbtu,swaps",$2.93,"price per mmbtu,price per mmbtu,swaps"
+1,MRO20170224,",natural gas,2017,third quarter,",index,90000,"volume (mmbtu/day),,",$3.54,"ceiling,price per mmbtu,",natural gas,"collar, put, swap",,$3.01,"floor,price per mmbtu,",$2.48,"sold put,price per mmbtu,",20000,"volume (mmbtu/day),price per mmbtu,swaps",$2.93,"price per mmbtu,price per mmbtu,swaps"
+2,MRO20170224,",natural gas,2017,fourth quarter,",index,90000,"volume (mmbtu/day),,",$3.61,"ceiling,price per mmbtu,",natural gas,"collar, put, swap",,$3.04,"floor,price per mmbtu,",$2.52,"sold put,price per mmbtu,",20000,"volume (mmbtu/day),price per mmbtu,swaps",$2.93,"price per mmbtu,price per mmbtu,swaps"
+3,MRO20170224,",natural gas,,2018,",index,20000,"volume (mmbtu/day),,",$3.56,"ceiling,price per mmbtu,",natural gas,"collar, put, swap",,$3.00,"floor,price per mmbtu,",$2.50,"sold put,price per mmbtu,",,"volume (mmbtu/day),price per mmbtu,swaps",,"price per mmbtu,price per mmbtu,swaps"

@@ -1,0 +1,204 @@
+,doc_id,price_1,price_1_type,price_2,price_2_type,vol_1,vol_1_type,instrument_type,product_type,datetime_1,datetime_1_type,additional,price_3,price_3_type
+"natural  gas,",NBL20030311,$2.00|$3.50,"floor price range,hedge mmbtupd",$2.45|$5.10,"ceiling price range,hedge mmbtupd",44%,"percent of daily production,hedge mmbtupd",collar,"natural gas, natural gas liquid",,,,,
+"crude oil,",NBL20030311,$23.00|$24.00,"floor price range,hedge bpd",$29.30|$30.10,"ceiling price range,hedge bpd",,,collar,oil,,,,,
+1,NBL20030311,$23.00|$28.63,"crude oil,price per bbl floor - ceiling",,,15000,crude oilbbls per day,collar,oil,1Q 2003,production period,,,
+2,NBL20030311,$23.00|$28.63,"crude oil,price per bbl floor - ceiling",,,15000,crude oilbbls per day,collar,oil,2Q 2003,production period,,,
+3,NBL20030311,$23.00|$27.95,"crude oil,price per bbl floor - ceiling",,,10000,crude oilbbls per day,collar,oil,3Q 2003,production period,,,
+4,NBL20030311,$23.00|$27.95,"crude oil,price per bbl floor - ceiling",,,10000,crude oilbbls per day,collar,oil,4Q 2003,production period,,,
+1,NBL20030311,$3.87|$4.82,"natural  gas,price per mmbtu floor - ceiling",,,185000,natural  gasmmbtu per day,collar,natural gas,1Q 2003,production period,,,
+2,NBL20030311,$3.43|$4.57,"natural  gas,price per mmbtu floor - ceiling",,,185000,natural  gasmmbtu per day,collar,natural gas,2Q 2003,production period,,,
+3,NBL20030311,$3.43|$4.60,"natural  gas,price per mmbtu floor - ceiling",,,185000,natural  gasmmbtu per day,collar,natural gas,3Q 2003,production period,,,
+4,NBL20030311,$3.43|$4.84,"natural  gas,price per mmbtu floor - ceiling",,,185000,natural  gasmmbtu per day,collar,natural gas,4Q 2003,production period,,,
+0,NBL20040315,$3.25|$3.80,"floor price range,fixed price range",$4.00|$5.25,"ceiling price range,fixed price range",190038,"hedge mmbtupd,",collar,"natural gas, natural gas liquid","2003,",index,,,
+1,NBL20040315,$2.00|$3.50,"floor price range,fixed price range",$2.45|$5.10,"ceiling price range,fixed price range",170274,"hedge mmbtupd,",collar,"natural gas, natural gas liquid","2002,",index,,,
+2,NBL20040315,$3.25|$5.00,"floor price range,fixed price range",$4.60|$6.25,"ceiling price range,fixed price range",16947,"hedge mmbtupd,",collar,"natural gas, natural gas liquid","2001,",index,,,
+0,NBL20040315,$23.00|$27.00,"floor price range,fixed price",$27.20|$35.05,"ceiling price range,fixed price",,,collar,oil,"2003,",index,,,
+1,NBL20040315,$23.00|$24.00,"floor price range,fixed price",$29.30|$30.10,"ceiling price range,fixed price",,,collar,oil,"2002,",index,,,
+2,NBL20040315,,"floor price range,fixed price",,"ceiling price range,fixed price",,,collar,oil,"2001,",index,,,
+1,NBL20040315,$25.33|$31.53,"crude oil,price per bbl floor - ceiling",,,15000,crude oilbopd,collar,oil,1Q 2004,production period,,,
+2,NBL20040315,$24.83|$31.22,"crude oil,price per bbl floor - ceiling",,,15000,crude oilbopd,collar,oil,2Q 2004,production period,,,
+3,NBL20040315,$25.00|$31.13,"crude oil,price per bbl floor - ceiling",,,15000,crude oilbopd,collar,oil,3Q 2004,production period,,,
+4,NBL20040315,$24.00|$30.00,"crude oil,price per bbl floor - ceiling",,,5000,crude oilbopd,collar,oil,4Q 2004,production period,,,
+1,NBL20040315,$4.81|$7.77,"natural  gas,price per mmbtu floor - ceiling",,,120000,natural  gasmmbtupd,collar,natural gas,1Q 2004,production period,,,
+2,NBL20040315,$4.06|$5.95,"natural  gas,price per mmbtu floor - ceiling",,,120000,natural  gasmmbtupd,collar,natural gas,2Q 2004,production period,,,
+3,NBL20040315,$4.19|$5.99,"natural  gas,price per mmbtu floor - ceiling",,,120000,natural  gasmmbtupd,collar,natural gas,3Q 2004,production period,,,
+4,NBL20040315,$4.19|$6.42,"natural  gas,price per mmbtu floor - ceiling",,,120000,natural  gasmmbtupd,collar,natural gas,4Q 2004,production period,,,
+1,NBL20120209,$91.84,"swaps,weighted average fixed price",,,5000,bbls per day,swap,oil,2012,period,,,
+2,NBL20120209,89.06,"swaps,weighted average fixed price",,,8000,bbls per day,swap,oil,2012,period,,,
+3,NBL20120209,-,"swaps,weighted average fixed price",,,23000,bbls per day,"three-way collar, collar",oil,2012,period,,,
+4,NBL20120209,-,"swaps,weighted average fixed price",,,3000,bbls per day,"three-way collar, collar",oil,2012,period,,,
+5,NBL20120209,98.03,"swaps,weighted average fixed price",,,3000,bbls per day,swap,oil,2013,period,,,
+6,NBL20120209,-,"swaps,weighted average fixed price",,,5000,bbls per day,"three-way collar, collar",oil,2013,period,,,
+7,NBL20120209,-,"swaps,weighted average fixed price",,,23000,bbls per day,"three-way collar, collar",oil,2013,period,,,
+8,NBL20120209,-,"swaps,weighted average fixed price",,,5000,bbls per day,"three-way collar, collar",oil,2014,period,,,
+10,NBL20120209,-,"swaps,weighted average fixed price",,,5000,bbls per day,"three-way collar, collar",oil,2013,period,"instruments entered into during january 1|31, 2012",,
+1,NBL20120209,-,"collars,weighted average short put price",-,"collars,weighted average floor price",5000,bbls per day,swap,oil,2012,period,,-,"collars,weighted average ceiling price"
+2,NBL20120209,-,"collars,weighted average short put price",-,"collars,weighted average floor price",8000,bbls per day,swap,oil,2012,period,,-,"collars,weighted average ceiling price"
+3,NBL20120209,61.09,"collars,weighted average short put price",83.04,"collars,weighted average floor price",23000,bbls per day,"three-way collar, collar",oil,2012,period,,101.66,"collars,weighted average ceiling price"
+4,NBL20120209,70.00,"collars,weighted average short put price",95.83,"collars,weighted average floor price",3000,bbls per day,"three-way collar, collar",oil,2012,period,,105.00,"collars,weighted average ceiling price"
+5,NBL20120209,-,"collars,weighted average short put price",-,"collars,weighted average floor price",3000,bbls per day,swap,oil,2013,period,,-,"collars,weighted average ceiling price"
+6,NBL20120209,65.00,"collars,weighted average short put price",85.00,"collars,weighted average floor price",5000,bbls per day,"three-way collar, collar",oil,2013,period,,113.63,"collars,weighted average ceiling price"
+7,NBL20120209,82.61,"collars,weighted average short put price",100.32,"collars,weighted average floor price",23000,bbls per day,"three-way collar, collar",oil,2013,period,,127.62,"collars,weighted average ceiling price"
+8,NBL20120209,80.00,"collars,weighted average short put price",92.00,"collars,weighted average floor price",5000,bbls per day,"three-way collar, collar",oil,2014,period,,130.50,"collars,weighted average ceiling price"
+10,NBL20120209,90.00,"collars,weighted average short put price",105.00,"collars,weighted average floor price",5000,bbls per day,"three-way collar, collar",oil,2013,period,"instruments entered into during january 1|31, 2012",127.97,"collars,weighted average ceiling price"
+1,NBL20120209,$5.10,"swaps,weighted average fixed price",,,30000,mmbtu per day,swap,natural gas,2012,period,,,
+2,NBL20120209,-,"swaps,weighted average fixed price",,,40000,mmbtu per day,"two-way collar, collar",natural gas,2012,period,,,
+3,NBL20120209,-,"swaps,weighted average fixed price",,,110000,mmbtu per day,"three-way collar, collar",natural gas,2012,period,,,
+4,NBL20120209,5.25,"swaps,weighted average fixed price",,,30000,mmbtu per day,swap,natural gas,2013,period,,,
+5,NBL20120209,-,"swaps,weighted average fixed price",,,40000,mmbtu per day,"two-way collar, collar",natural gas,2013,period,,,
+6,NBL20120209,-,"swaps,weighted average fixed price",,,100000,mmbtu per day,"three-way collar, collar",natural gas,2013,period,,,
+1,NBL20120209,-,"collars,weighted average short put price",-,"collars,weighted average floor price",30000,mmbtu per day,swap,natural gas,2012,period,,-,"collars,weighted average ceiling price"
+2,NBL20120209,-,"collars,weighted average short put price",3.25,"collars,weighted average floor price",40000,mmbtu per day,"two-way collar, collar",natural gas,2012,period,,5.14,"collars,weighted average ceiling price"
+3,NBL20120209,4.44,"collars,weighted average short put price",5.25,"collars,weighted average floor price",110000,mmbtu per day,"three-way collar, collar",natural gas,2012,period,,6.66,"collars,weighted average ceiling price"
+4,NBL20120209,-,"collars,weighted average short put price",-,"collars,weighted average floor price",30000,mmbtu per day,swap,natural gas,2013,period,,-,"collars,weighted average ceiling price"
+5,NBL20120209,-,"collars,weighted average short put price",3.25,"collars,weighted average floor price",40000,mmbtu per day,"two-way collar, collar",natural gas,2013,period,,5.14,"collars,weighted average ceiling price"
+6,NBL20120209,3.88,"collars,weighted average short put price",4.75,"collars,weighted average floor price",100000,mmbtu per day,"three-way collar, collar",natural gas,2013,period,,5.63,"collars,weighted average ceiling price"
+1,NBL20120209,,,,,150000.0,mmbtu per day,@,natural gas,2012.0,period,,,
+4,NBL20130207,$89.63,",swaps,weightedaveragefixedprice,",,,8000,",,bbls perday,instruments entered into as of december 31, 2012",swap,oil,2013,",,settlementperiod,instruments entered into as of december 31, 2012",,,
+5,NBL20130207,98.03,",swaps,weightedaveragefixedprice,",,,3000,",,bbls perday,instruments entered into as of december 31, 2012",swap,oil,2013,",,settlementperiod,instruments entered into as of december 31, 2012",,,
+6,NBL20130207,,",swaps,weightedaveragefixedprice,",,,5000,",,bbls perday,instruments entered into as of december 31, 2012","two-way collar, collar",oil,2013,",,settlementperiod,instruments entered into as of december 31, 2012",,,
+7,NBL20130207,,",swaps,weightedaveragefixedprice,",,,7000,",,bbls perday,instruments entered into as of december 31, 2012","three-way collar, collar",oil,2013,",,settlementperiod,instruments entered into as of december 31, 2012",,,
+8,NBL20130207,,",swaps,weightedaveragefixedprice,",,,26000,",,bbls perday,instruments entered into as of december 31, 2012","three-way collar, collar",oil,2013,",,settlementperiod,instruments entered into as of december 31, 2012",,,
+9,NBL20130207,90.26,",swaps,weightedaveragefixedprice,",,,11000,",,bbls perday,instruments entered into as of december 31, 2012",swap,oil,2014,",,settlementperiod,instruments entered into as of december 31, 2012",,,
+10,NBL20130207,105.14,",swaps,weightedaveragefixedprice,",,,10000,",,bbls perday,instruments entered into as of december 31, 2012",swap,oil,2014,",,settlementperiod,instruments entered into as of december 31, 2012",,,
+11,NBL20130207,,",swaps,weightedaveragefixedprice,",,,4000,",,bbls perday,instruments entered into as of december 31, 2012","three-way collar, collar",oil,2014,",,settlementperiod,instruments entered into as of december 31, 2012",,,
+12,NBL20130207,,",swaps,weightedaveragefixedprice,",,,11000,",,bbls perday,instruments entered into as of december 31, 2012","three-way collar, collar",oil,2014,",,settlementperiod,instruments entered into as of december 31, 2012",,,
+4,NBL20130207,,",collars,weightedaverage short put price,",,",collars,weightedaveragefloorprice,",8000,",,bbls perday,instruments entered into as of december 31, 2012",swap,oil,2013,",,settlementperiod,instruments entered into as of december 31, 2012",,,",collars,weightedaverage ceilingprice,"
+5,NBL20130207,,",collars,weightedaverage short put price,",,",collars,weightedaveragefloorprice,",3000,",,bbls perday,instruments entered into as of december 31, 2012",swap,oil,2013,",,settlementperiod,instruments entered into as of december 31, 2012",,,",collars,weightedaverage ceilingprice,"
+6,NBL20130207,,",collars,weightedaverage short put price,",95.00,",collars,weightedaveragefloorprice,",5000,",,bbls perday,instruments entered into as of december 31, 2012","two-way collar, collar",oil,2013,",,settlementperiod,instruments entered into as of december 31, 2012",,115.00,",collars,weightedaverage ceilingprice,"
+7,NBL20130207,63.57,",collars,weightedaverage short put price,",83.57,",collars,weightedaveragefloorprice,",7000,",,bbls perday,instruments entered into as of december 31, 2012","three-way collar, collar",oil,2013,",,settlementperiod,instruments entered into as of december 31, 2012",,109.04,",collars,weightedaverage ceilingprice,"
+8,NBL20130207,82.50,",collars,weightedaverage short put price,",100.93,",collars,weightedaveragefloorprice,",26000,",,bbls perday,instruments entered into as of december 31, 2012","three-way collar, collar",oil,2013,",,settlementperiod,instruments entered into as of december 31, 2012",,126.63,",collars,weightedaverage ceilingprice,"
+9,NBL20130207,,",collars,weightedaverage short put price,",,",collars,weightedaveragefloorprice,",11000,",,bbls perday,instruments entered into as of december 31, 2012",swap,oil,2014,",,settlementperiod,instruments entered into as of december 31, 2012",,,",collars,weightedaverage ceilingprice,"
+10,NBL20130207,,",collars,weightedaverage short put price,",,",collars,weightedaveragefloorprice,",10000,",,bbls perday,instruments entered into as of december 31, 2012",swap,oil,2014,",,settlementperiod,instruments entered into as of december 31, 2012",,,",collars,weightedaverage ceilingprice,"
+11,NBL20130207,77.00,",collars,weightedaverage short put price,",92.00,",collars,weightedaveragefloorprice,",4000,",,bbls perday,instruments entered into as of december 31, 2012","three-way collar, collar",oil,2014,",,settlementperiod,instruments entered into as of december 31, 2012",,106.13,",collars,weightedaverage ceilingprice,"
+12,NBL20130207,85.45,",collars,weightedaverage short put price,",99.09,",collars,weightedaveragefloorprice,",11000,",,bbls perday,instruments entered into as of december 31, 2012","three-way collar, collar",oil,2014,",,settlementperiod,instruments entered into as of december 31, 2012",,128.40,",collars,weightedaverage ceilingprice,"
+4,NBL20130207,$4.58,",swaps,weightedaveragefixedprice,",,,60000,",,mmbtuper day,",swap,natural gas,2013,",,settlementperiod,instruments entered into as of december 31, 2012",,,
+5,NBL20130207,,",swaps,weightedaveragefixedprice,",,,40000,",,mmbtuper day,","two-way collar, collar",natural gas,2013,",,settlementperiod,instruments entered into as of december 31, 2012",,,
+6,NBL20130207,,",swaps,weightedaveragefixedprice,",,,100000,",,mmbtuper day,","three-way collar, collar",natural gas,2013,",,settlementperiod,instruments entered into as of december 31, 2012",,,
+7,NBL20130207,4.24,",swaps,weightedaveragefixedprice,",,,60000,",,mmbtuper day,",swap,natural gas,2014,",,settlementperiod,instruments entered into as of december 31, 2012",,,
+8,NBL20130207,,",swaps,weightedaveragefixedprice,",,,130000,",,mmbtuper day,","three-way collar, collar",natural gas,2014,",,settlementperiod,instruments entered into as of december 31, 2012",,,
+4,NBL20130207,,",collars,weightedaverageshort put price,",,",collars,weightedaveragefloorprice,",60000,",,mmbtuper day,",swap,natural gas,2013,",,settlementperiod,instruments entered into as of december 31, 2012",,,",collars,weightedaverageceilingprice,"
+5,NBL20130207,,",collars,weightedaverageshort put price,",3.25,",collars,weightedaveragefloorprice,",40000,",,mmbtuper day,","two-way collar, collar",natural gas,2013,",,settlementperiod,instruments entered into as of december 31, 2012",,5.14,",collars,weightedaverageceilingprice,"
+6,NBL20130207,3.88,",collars,weightedaverageshort put price,",4.75,",collars,weightedaveragefloorprice,",100000,",,mmbtuper day,","three-way collar, collar",natural gas,2013,",,settlementperiod,instruments entered into as of december 31, 2012",,5.63,",collars,weightedaverageceilingprice,"
+7,NBL20130207,,",collars,weightedaverageshort put price,",,",collars,weightedaveragefloorprice,",60000,",,mmbtuper day,",swap,natural gas,2014,",,settlementperiod,instruments entered into as of december 31, 2012",,,",collars,weightedaverageceilingprice,"
+8,NBL20130207,2.56,",collars,weightedaverageshort put price,",3.56,",collars,weightedaveragefloorprice,",130000,",,mmbtuper day,","three-way collar, collar",natural gas,2014,",,settlementperiod,instruments entered into as of december 31, 2012",,5.21,",collars,weightedaverageceilingprice,"
+4,NBL20140206,$92.67,",swaps,weightedaveragefixedprice,",,,37000,",,bbls perday,instruments entered into as of december 31, 2013",swap,oil,2014,",,settlementperiod,instruments entered into as of december 31, 2013",,,
+5,NBL20140206,103.21,",swaps,weightedaveragefixedprice,",,,13000,",,bbls perday,instruments entered into as of december 31, 2013",swap,oil,2014,",,settlementperiod,instruments entered into as of december 31, 2013",,,
+6,NBL20140206,,",swaps,weightedaveragefixedprice,",,,12000,",,bbls perday,instruments entered into as of december 31, 2013","three-way collar, collar",oil,2014,",,settlementperiod,instruments entered into as of december 31, 2013",,,
+7,NBL20140206,,",swaps,weightedaveragefixedprice,",,,8000,",,bbls perday,instruments entered into as of december 31, 2013","three-way collar, collar",oil,2014,",,settlementperiod,instruments entered into as of december 31, 2013",,,
+8,NBL20140206,87.66,",swaps,weightedaveragefixedprice,",,,16000,",,bbls perday,instruments entered into as of december 31, 2013",swap,oil,2015,",,settlementperiod,instruments entered into as of december 31, 2013",,,
+9,NBL20140206,100.20,",swaps,weightedaveragefixedprice,",,,8000,",,bbls perday,instruments entered into as of december 31, 2013",swap,oil,2015,",,settlementperiod,instruments entered into as of december 31, 2013",,,
+10,NBL20140206,,",swaps,weightedaveragefixedprice,",,,15000,",,bbls perday,instruments entered into as of december 31, 2013","three-way collar, collar",oil,2015,",,settlementperiod,instruments entered into as of december 31, 2013",,,
+11,NBL20140206,,",swaps,weightedaveragefixedprice,",,,11000,",,bbls perday,instruments entered into as of december 31, 2013","three-way collar, collar",oil,2015,",,settlementperiod,instruments entered into as of december 31, 2013",,,
+4,NBL20140206,,",collars,weightedaverage short put price,",,",collars,weightedaveragefloorprice,",37000,",,bbls perday,instruments entered into as of december 31, 2013",swap,oil,2014,",,settlementperiod,instruments entered into as of december 31, 2013",,,",collars,weightedaverage ceilingprice,"
+5,NBL20140206,,",collars,weightedaverage short put price,",,",collars,weightedaveragefloorprice,",13000,",,bbls perday,instruments entered into as of december 31, 2013",swap,oil,2014,",,settlementperiod,instruments entered into as of december 31, 2013",,,",collars,weightedaverage ceilingprice,"
+6,NBL20140206,75.67,",collars,weightedaverage short put price,",90.67,",collars,weightedaveragefloorprice,",12000,",,bbls perday,instruments entered into as of december 31, 2013","three-way collar, collar",oil,2014,",,settlementperiod,instruments entered into as of december 31, 2013",,100.88,",collars,weightedaverage ceilingprice,"
+7,NBL20140206,84.38,",collars,weightedaverage short put price,",98.25,",collars,weightedaveragefloorprice,",8000,",,bbls perday,instruments entered into as of december 31, 2013","three-way collar, collar",oil,2014,",,settlementperiod,instruments entered into as of december 31, 2013",,121.56,",collars,weightedaverage ceilingprice,"
+8,NBL20140206,,",collars,weightedaverage short put price,",,",collars,weightedaveragefloorprice,",16000,",,bbls perday,instruments entered into as of december 31, 2013",swap,oil,2015,",,settlementperiod,instruments entered into as of december 31, 2013",,,",collars,weightedaverage ceilingprice,"
+9,NBL20140206,,",collars,weightedaverage short put price,",,",collars,weightedaveragefloorprice,",8000,",,bbls perday,instruments entered into as of december 31, 2013",swap,oil,2015,",,settlementperiod,instruments entered into as of december 31, 2013",,,",collars,weightedaverage ceilingprice,"
+10,NBL20140206,70.67,",collars,weightedaverage short put price,",88.00,",collars,weightedaveragefloorprice,",15000,",,bbls perday,instruments entered into as of december 31, 2013","three-way collar, collar",oil,2015,",,settlementperiod,instruments entered into as of december 31, 2013",,94.78,",collars,weightedaverage ceilingprice,"
+11,NBL20140206,76.36,",collars,weightedaverage short put price,",95.27,",collars,weightedaveragefloorprice,",11000,",,bbls perday,instruments entered into as of december 31, 2013","three-way collar, collar",oil,2015,",,settlementperiod,instruments entered into as of december 31, 2013",,109.26,",collars,weightedaverage ceilingprice,"
+4,NBL20140206,$4.24,",swaps,weightedaveragefixedprice,",,,60000,",,mmbtuper day,",swap,natural gas,2014,",,settlementperiod,instruments entered into as of december 31, 2013",,,
+5,NBL20140206,,",swaps,weightedaveragefixedprice,",,,230000,",,mmbtuper day,","three-way collar, collar",natural gas,2014,",,settlementperiod,instruments entered into as of december 31, 2013",,,
+6,NBL20140206,4.32,",swaps,weightedaveragefixedprice,",,,80000,",,mmbtuper day,",swap,natural gas,2015,",,settlementperiod,instruments entered into as of december 31, 2013",,,
+7,NBL20140206,,",swaps,weightedaveragefixedprice,",,,120000,",,mmbtuper day,","three-way collar, collar",natural gas,2015,",,settlementperiod,instruments entered into as of december 31, 2013",,,
+4,NBL20140206,,",collars,weightedaverageshort put price,",,",collars,weightedaveragefloorprice,",60000,",,mmbtuper day,",swap,natural gas,2014,",,settlementperiod,instruments entered into as of december 31, 2013",,,",collars,weightedaverageceilingprice,"
+5,NBL20140206,2.83,",collars,weightedaverageshort put price,",3.75,",collars,weightedaveragefloorprice,",230000,",,mmbtuper day,","three-way collar, collar",natural gas,2014,",,settlementperiod,instruments entered into as of december 31, 2013",,4.98,",collars,weightedaverageceilingprice,"
+6,NBL20140206,,",collars,weightedaverageshort put price,",,",collars,weightedaveragefloorprice,",80000,",,mmbtuper day,",swap,natural gas,2015,",,settlementperiod,instruments entered into as of december 31, 2013",,,",collars,weightedaverageceilingprice,"
+7,NBL20140206,3.54,",collars,weightedaverageshort put price,",4.25,",collars,weightedaveragefloorprice,",120000,",,mmbtuper day,","three-way collar, collar",natural gas,2015,",,settlementperiod,instruments entered into as of december 31, 2013",,5.06,",collars,weightedaverageceilingprice,"
+4,NBL20150219,$88.80,",swaps,weightedaveragefixedprice,",,,27000,",,bbls perday,instruments entered into as of december 31, 2014",swap,oil,2015,",,settlementperiod,instruments entered into as of december 31, 2014",,,
+5,NBL20150219,100.31,",swaps,weightedaveragefixedprice,",,,8000,",,bbls perday,instruments entered into as of december 31, 2014",swap,oil,2015,",,settlementperiod,instruments entered into as of december 31, 2014",,,
+6,NBL20150219,,",swaps,weightedaveragefixedprice,",,,20000,",,bbls perday,instruments entered into as of december 31, 2014","three-way collar, collar",oil,2015,",,settlementperiod,instruments entered into as of december 31, 2014",,,
+7,NBL20150219,,",swaps,weightedaveragefixedprice,",,,13000,",,bbls perday,instruments entered into as of december 31, 2014","three-way collar, collar",oil,2015,",,settlementperiod,instruments entered into as of december 31, 2014",,,
+8,NBL20150219,87.95,",swaps,weightedaveragefixedprice,",,,6000,",,bbls perday,instruments entered into as of december 31, 2014",swap,oil,2016,",,settlementperiod,instruments entered into as of december 31, 2014",,,
+9,NBL20150219,97.96,",swaps,weightedaveragefixedprice,",,,9000,",,bbls perday,instruments entered into as of december 31, 2014",swap,oil,2016,",,settlementperiod,instruments entered into as of december 31, 2014",,,
+10,NBL20150219,,",swaps,weightedaveragefixedprice,",,,3000,",,bbls perday,instruments entered into as of december 31, 2014","three-way collar, collar",oil,2016,",,settlementperiod,instruments entered into as of december 31, 2014",,,
+11,NBL20150219,,",swaps,weightedaveragefixedprice,",,,6000,",,bbls perday,instruments entered into as of december 31, 2014","three-way collar, collar",oil,2016,",,settlementperiod,instruments entered into as of december 31, 2014",,,
+4,NBL20150219,,",collars,weightedaverage short put price,",,",collars,weightedaveragefloorprice,",27000,",,bbls perday,instruments entered into as of december 31, 2014",swap,oil,2015,",,settlementperiod,instruments entered into as of december 31, 2014",,,",collars,weightedaverage ceilingprice,"
+5,NBL20150219,,",collars,weightedaverage short put price,",,",collars,weightedaveragefloorprice,",8000,",,bbls perday,instruments entered into as of december 31, 2014",swap,oil,2015,",,settlementperiod,instruments entered into as of december 31, 2014",,,",collars,weightedaverage ceilingprice,"
+6,NBL20150219,70.50,",collars,weightedaverage short put price,",87.55,",collars,weightedaveragefloorprice,",20000,",,bbls perday,instruments entered into as of december 31, 2014","three-way collar, collar",oil,2015,",,settlementperiod,instruments entered into as of december 31, 2014",,94.41,",collars,weightedaverage ceilingprice,"
+7,NBL20150219,76.92,",collars,weightedaverage short put price,",96.00,",collars,weightedaveragefloorprice,",13000,",,bbls perday,instruments entered into as of december 31, 2014","three-way collar, collar",oil,2015,",,settlementperiod,instruments entered into as of december 31, 2014",,108.49,",collars,weightedaverage ceilingprice,"
+8,NBL20150219,,",collars,weightedaverage short put price,",,",collars,weightedaveragefloorprice,",6000,",,bbls perday,instruments entered into as of december 31, 2014",swap,oil,2016,",,settlementperiod,instruments entered into as of december 31, 2014",,,",collars,weightedaverage ceilingprice,"
+9,NBL20150219,,",collars,weightedaverage short put price,",,",collars,weightedaveragefloorprice,",9000,",,bbls perday,instruments entered into as of december 31, 2014",swap,oil,2016,",,settlementperiod,instruments entered into as of december 31, 2014",,,",collars,weightedaverage ceilingprice,"
+10,NBL20150219,72.00,",collars,weightedaverage short put price,",85.00,",collars,weightedaveragefloorprice,",3000,",,bbls perday,instruments entered into as of december 31, 2014","three-way collar, collar",oil,2016,",,settlementperiod,instruments entered into as of december 31, 2014",,94.82,",collars,weightedaverage ceilingprice,"
+11,NBL20150219,80.00,",collars,weightedaverage short put price,",95.00,",collars,weightedaveragefloorprice,",6000,",,bbls perday,instruments entered into as of december 31, 2014","three-way collar, collar",oil,2016,",,settlementperiod,instruments entered into as of december 31, 2014",,105.87,",collars,weightedaverage ceilingprice,"
+4,NBL20150219,$4.30,",swaps,weightedaveragefixedprice,",,,140000,",,mmbtuper day,",swap,natural gas,2015,",,settlementperiod,instruments entered into as of december 31, 2014",,,
+5,NBL20150219,,",swaps,weightedaveragefixedprice,",,,150000,",,mmbtuper day,","three-way collar, collar",natural gas,2015,",,settlementperiod,instruments entered into as of december 31, 2014",,,
+6,NBL20150219,3.90,",swaps,weightedaveragefixedprice,",,,10000,",,mmbtuper day,",swap,natural gas,2016,",,settlementperiod,instruments entered into as of december 31, 2014",,,
+7,NBL20150219,,",swaps,weightedaveragefixedprice,",,,30000,",,mmbtuper day,","three-way collar, collar",natural gas,2016,",,settlementperiod,instruments entered into as of december 31, 2014",,,
+4,NBL20150219,,",collars,weightedaverageshort put price,",,",collars,weightedaveragefloorprice,",140000,",,mmbtuper day,",swap,natural gas,2015,",,settlementperiod,instruments entered into as of december 31, 2014",,,",collars,weightedaverageceilingprice,"
+5,NBL20150219,3.58,",collars,weightedaverageshort put price,",4.25,",collars,weightedaveragefloorprice,",150000,",,mmbtuper day,","three-way collar, collar",natural gas,2015,",,settlementperiod,instruments entered into as of december 31, 2014",,5.04,",collars,weightedaverageceilingprice,"
+6,NBL20150219,,",collars,weightedaverageshort put price,",,",collars,weightedaveragefloorprice,",10000,",,mmbtuper day,",swap,natural gas,2016,",,settlementperiod,instruments entered into as of december 31, 2014",,,",collars,weightedaverageceilingprice,"
+7,NBL20150219,3.00,",collars,weightedaverageshort put price,",3.75,",collars,weightedaveragefloorprice,",30000,",,mmbtuper day,","three-way collar, collar",natural gas,2016,",,settlementperiod,instruments entered into as of december 31, 2014",,4.40,",collars,weightedaverageceilingprice,"
+4,NBL20160217,74.47,",swaps,weightedaveragefixedprice,$68,0",,,12000,",,bbls perday,17000",swap,oil,"2H16 ,",",,settlementperiod,1h16 (1)",,,
+5,NBL20160217,,",swaps,weightedaveragefixedprice,$68,0",,,5000,",,bbls perday,17000",call,oil,"2H16 ,",",,settlementperiod,1h16 (1)",,,
+6,NBL20160217,97.96,",swaps,weightedaveragefixedprice,$68,0",,,9000,",,bbls perday,17000",swap,oil,2016,",,settlementperiod,1h16 (1)",,,
+7,NBL20160217,90.28,",swaps,weightedaveragefixedprice,$68,0",,,6000,",,bbls perday,17000",swap,oil,2016,",,settlementperiod,1h16 (1)",,,
+8,NBL20160217,,",swaps,weightedaveragefixedprice,$68,0",,,1000,",,bbls perday,17000",collar,oil,2016,",,settlementperiod,1h16 (1)",,,
+9,NBL20160217,,",swaps,weightedaveragefixedprice,$68,0",,,6000,",,bbls perday,17000","three-way collar, collar",oil,2016,",,settlementperiod,1h16 (1)",,,
+10,NBL20160217,,",swaps,weightedaveragefixedprice,$68,0",,,8000,",,bbls perday,17000","three-way collar, collar",oil,2016,",,settlementperiod,1h16 (1)",,,
+11,NBL20160217,60.12,",swaps,weightedaveragefixedprice,$68,0",,,3000,",,bbls perday,17000",swap,oil,"1H17 ,",",,settlementperiod,1h16 (1)",,,
+12,NBL20160217,62.80,",swaps,weightedaveragefixedprice,$68,0",,,3000,",,bbls perday,17000",swap,oil,"1H17 ,",",,settlementperiod,1h16 (1)",,,
+13,NBL20160217,,",swaps,weightedaveragefixedprice,$68,0",,,3000,",,bbls perday,17000",call,oil,"2H17 ,",",,settlementperiod,1h16 (1)",,,
+14,NBL20160217,,",swaps,weightedaveragefixedprice,$68,0",,,3000,",,bbls perday,17000",call,oil,2017,",,settlementperiod,1h16 (1)",,,
+15,NBL20160217,,",swaps,weightedaveragefixedprice,$68,0",,,5000,",,bbls perday,17000","two-way collar, collar",oil,2017,",,settlementperiod,1h16 (1)",,,
+5,NBL20160217,,",collars,weightedaverage short put price,",,",collars,weightedaveragefloorprice,",,,"collar, put",,"2H16 ,",",,settlementperiod,1h16 (1)","2h16 ,",54.16,",collars,weightedaverage ceilingprice,"
+8,NBL20160217,,",collars,weightedaverage short put price,",60.00,",collars,weightedaveragefloorprice,",,,"collar, put",,2016,",,settlementperiod,1h16 (1)",2016,70.00,",collars,weightedaverage ceilingprice,"
+9,NBL20160217,61.00,",collars,weightedaverage short put price,",72.50,",collars,weightedaveragefloorprice,",,,"collar, put",,2016,",,settlementperiod,1h16 (1)",2016,86.37,",collars,weightedaverage ceilingprice,"
+10,NBL20160217,72.50,",collars,weightedaverage short put price,",86.25,",collars,weightedaveragefloorprice,",,,"collar, put",,2016,",,settlementperiod,1h16 (1)",2016,101.79,",collars,weightedaverage ceilingprice,"
+13,NBL20160217,,",collars,weightedaverage short put price,",,",collars,weightedaveragefloorprice,",,,"collar, put",,"2H17 ,",",,settlementperiod,1h16 (1)","1h17 ,",60.12,",collars,weightedaverage ceilingprice,"
+14,NBL20160217,,",collars,weightedaverage short put price,",,",collars,weightedaveragefloorprice,",,,"collar, put",,2017,",,settlementperiod,1h16 (1)","1h17 ,",57.00,",collars,weightedaverage ceilingprice,"
+15,NBL20160217,,",collars,weightedaverage short put price,",40.00,",collars,weightedaveragefloorprice,",,,"collar, put",,2017,",,settlementperiod,1h16 (1)","1h17 ,",54.00,",collars,weightedaverage ceilingprice,"
+4,NBL20160217,4.04,",swaps,weightedaveragefixedprice,$3,0",,,30000,",,mmbtuper day,40000",swap,natural gas,2016,",,settlementperiod,2016",,,
+5,NBL20160217,,",swaps,weightedaveragefixedprice,$3,0",,,30000,",,mmbtuper day,40000","two-way collar, collar",natural gas,2016,",,settlementperiod,2016",,,
+6,NBL20160217,,",swaps,weightedaveragefixedprice,$3,0",,,30000,",,mmbtuper day,40000","two-way collar, collar",natural gas,2016,",,settlementperiod,2016",,,
+7,NBL20160217,,",swaps,weightedaveragefixedprice,$3,0",,,90000,",,mmbtuper day,40000","three-way collar, collar",natural gas,2016,",,settlementperiod,2016",,,
+5,NBL20160217,,",collars,weightedaverageshort put price,",3.00,",collars,weightedaveragefloorprice,",,,"collar, put",,2016,",,settlementperiod,2016",2016,3.50,",collars,weightedaverageceilingprice,"
+6,NBL20160217,,",collars,weightedaverageshort put price,",3.50,",collars,weightedaveragefloorprice,",,,"collar, put",,2016,",,settlementperiod,2016",2016,5.60,",collars,weightedaverageceilingprice,"
+7,NBL20160217,2.83,",collars,weightedaverageshort put price,",3.42,",collars,weightedaveragefloorprice,",,,"collar, put",,2016,",,settlementperiod,2016",2016,3.90,",collars,weightedaverageceilingprice,"
+3,NBL20170214,$55.08,",swaps,weightedaveragefixedprice",,,6000,",,bbls perday",swap,oil,"1H17 ,",",,settlementperiod",,,
+4,NBL20170214,,",swaps,weightedaveragefixedprice",,,2000,",,bbls perday","two-way collar, collar",oil,"1H17 ,",",,settlementperiod",,,
+5,NBL20170214,62.80,",swaps,weightedaveragefixedprice",,,3000,",,bbls perday",swap,oil,"1H17 ,",",,settlementperiod",,,
+6,NBL20170214,,",swaps,weightedaveragefixedprice",,,3000,",,bbls perday",call,oil,"2H17 ,",",,settlementperiod",,,
+7,NBL20170214,50.05,",swaps,weightedaveragefixedprice",,,3000,",,bbls perday","swaption, swap",oil,"2H17 ,",",,settlementperiod",,,
+8,NBL20170214,62.80,",swaps,weightedaveragefixedprice",,,3000,",,bbls perday","swaption, swap",oil,"2H17 ,",",,settlementperiod",,,
+9,NBL20170214,,",swaps,weightedaveragefixedprice",,,24000,",,bbls perday","three-way collar, collar",oil,2017,",,settlementperiod",,,
+10,NBL20170214,,",swaps,weightedaveragefixedprice",,,7000,",,bbls perday","two-way collar, collar",oil,2017,",,settlementperiod",,,
+11,NBL20170214,50.90,",swaps,weightedaveragefixedprice",,,4000,",,bbls perday",swap,oil,2017,",,settlementperiod",,,
+12,NBL20170214,,",swaps,weightedaveragefixedprice",,,3000,",,bbls perday",call,oil,2017,",,settlementperiod",,,
+13,NBL20170214,,",swaps,weightedaveragefixedprice",,,2000,",,bbls perday","three-way collar, collar",oil,2017,",,settlementperiod",,,
+14,NBL20170214,,",swaps,weightedaveragefixedprice",,,2000,",,bbls perday","three-way collar, collar",oil,2017,",,settlementperiod",,,
+15,NBL20170214,,",swaps,weightedaveragefixedprice",,,5000,",,bbls perday","three-way collar, collar",oil,2018,",,settlementperiod",,,
+16,NBL20170214,54.03,",swaps,weightedaveragefixedprice",,,5000,",,bbls perday",swap,oil,2018,",,settlementperiod",,,
+17,NBL20170214,56.10,",swaps,weightedaveragefixedprice",,,3000,",,bbls perday","swaption, swap",oil,2018,",,settlementperiod",,,
+18,NBL20170214,,",swaps,weightedaveragefixedprice",,,3000,",,bbls perday","three-way collar, collar",oil,2018,",,settlementperiod",,,
+3,NBL20170214,,",collars,weightedaverage short put price",,",collars,weightedaveragefloorprice",6000,",,bbls perday",swap,oil,"1H17 ,",",,settlementperiod",,,",collars,weightedaverage ceilingprice"
+4,NBL20170214,,",collars,weightedaverage short put price",40.00,",collars,weightedaveragefloorprice",2000,",,bbls perday","two-way collar, collar",oil,"1H17 ,",",,settlementperiod",,50.44,",collars,weightedaverage ceilingprice"
+5,NBL20170214,,",collars,weightedaverage short put price",,",collars,weightedaveragefloorprice",3000,",,bbls perday",swap,oil,"1H17 ,",",,settlementperiod",,,",collars,weightedaverage ceilingprice"
+6,NBL20170214,,",collars,weightedaverage short put price",,",collars,weightedaveragefloorprice",3000,",,bbls perday",call,oil,"2H17 ,",",,settlementperiod",,60.12,",collars,weightedaverage ceilingprice"
+7,NBL20170214,,",collars,weightedaverage short put price",,",collars,weightedaveragefloorprice",3000,",,bbls perday","swaption, swap",oil,"2H17 ,",",,settlementperiod",,,",collars,weightedaverage ceilingprice"
+8,NBL20170214,,",collars,weightedaverage short put price",,",collars,weightedaveragefloorprice",3000,",,bbls perday","swaption, swap",oil,"2H17 ,",",,settlementperiod",,,",collars,weightedaverage ceilingprice"
+9,NBL20170214,39.08,",collars,weightedaverage short put price",47.71,",collars,weightedaveragefloorprice",24000,",,bbls perday","three-way collar, collar",oil,2017,",,settlementperiod",,61.20,",collars,weightedaverage ceilingprice"
+10,NBL20170214,,",collars,weightedaverage short put price",40.00,",collars,weightedaveragefloorprice",7000,",,bbls perday","two-way collar, collar",oil,2017,",,settlementperiod",,53.29,",collars,weightedaverage ceilingprice"
+11,NBL20170214,,",collars,weightedaverage short put price",,",collars,weightedaveragefloorprice",4000,",,bbls perday",swap,oil,2017,",,settlementperiod",,,",collars,weightedaverage ceilingprice"
+12,NBL20170214,,",collars,weightedaverage short put price",,",collars,weightedaveragefloorprice",3000,",,bbls perday",call,oil,2017,",,settlementperiod",,57.00,",collars,weightedaverage ceilingprice"
+13,NBL20170214,43.00,",collars,weightedaverage short put price",50.00,",collars,weightedaveragefloorprice",2000,",,bbls perday","three-way collar, collar",oil,2017,",,settlementperiod",,63.15,",collars,weightedaverage ceilingprice"
+14,NBL20170214,35.00,",collars,weightedaverage short put price",45.00,",collars,weightedaveragefloorprice",2000,",,bbls perday","three-way collar, collar",oil,2017,",,settlementperiod",,66.33,",collars,weightedaverage ceilingprice"
+15,NBL20170214,43.00,",collars,weightedaverage short put price",50.00,",collars,weightedaveragefloorprice",5000,",,bbls perday","three-way collar, collar",oil,2018,",,settlementperiod",,68.50,",collars,weightedaverage ceilingprice"
+16,NBL20170214,,",collars,weightedaverage short put price",,",collars,weightedaveragefloorprice",5000,",,bbls perday",swap,oil,2018,",,settlementperiod",,,",collars,weightedaverage ceilingprice"
+17,NBL20170214,,",collars,weightedaverage short put price",,",collars,weightedaveragefloorprice",3000,",,bbls perday","swaption, swap",oil,2018,",,settlementperiod",,,",collars,weightedaverage ceilingprice"
+18,NBL20170214,40.00,",collars,weightedaverage short put price",50.00,",collars,weightedaveragefloorprice",3000,",,bbls perday","three-way collar, collar",oil,2018,",,settlementperiod",,70.41,",collars,weightedaverage ceilingprice"
+3,NBL20170214,$2.92,",swaps,weightedaveragefixedprice",,,30000,",,mmbtuper day",swap,natural gas,"1H17 ,",",,settlementperiod",,,
+4,NBL20170214,3.45,",swaps,weightedaveragefixedprice",,,30000,",,mmbtuper day",swap,natural gas,"2H17 ,",",,settlementperiod",,,
+5,NBL20170214,2.92,",swaps,weightedaveragefixedprice",,,30000,",,mmbtuper day","swaption, swap",natural gas,"2H17 ,",",,settlementperiod",,,
+6,NBL20170214,,",swaps,weightedaveragefixedprice",,,210000,",,mmbtuper day","three-way collar, collar",natural gas,2017,",,settlementperiod",,,
+7,NBL20170214,3.16,",swaps,weightedaveragefixedprice",,,110000,",,mmbtuper day",swap,natural gas,2017,",,settlementperiod",,,
+8,NBL20170214,,",swaps,weightedaveragefixedprice",,,70000,",,mmbtuper day","two-way collar, collar",natural gas,2017,",,settlementperiod",,,
+9,NBL20170214,,",swaps,weightedaveragefixedprice",,,70000,",,mmbtuper day","three-way collar, collar",natural gas,2018,",,settlementperiod",,,
+3,NBL20170214,,",collars,weightedaverageshort put price",,",collars,weightedaveragefloorprice",30000,",,mmbtuper day",swap,natural gas,"1H17 ,",",,settlementperiod",,,",collars,weightedaverageceilingprice"
+4,NBL20170214,,",collars,weightedaverageshort put price",,",collars,weightedaveragefloorprice",30000,",,mmbtuper day",swap,natural gas,"2H17 ,",",,settlementperiod",,,",collars,weightedaverageceilingprice"
+5,NBL20170214,,",collars,weightedaverageshort put price",,",collars,weightedaveragefloorprice",30000,",,mmbtuper day","swaption, swap",natural gas,"2H17 ,",",,settlementperiod",,,",collars,weightedaverageceilingprice"
+6,NBL20170214,2.54,",collars,weightedaverageshort put price",2.96,",collars,weightedaveragefloorprice",210000,",,mmbtuper day","three-way collar, collar",natural gas,2017,",,settlementperiod",,3.62,",collars,weightedaverageceilingprice"
+7,NBL20170214,,",collars,weightedaverageshort put price",,",collars,weightedaveragefloorprice",110000,",,mmbtuper day",swap,natural gas,2017,",,settlementperiod",,,",collars,weightedaverageceilingprice"
+8,NBL20170214,,",collars,weightedaverageshort put price",2.93,",collars,weightedaveragefloorprice",70000,",,mmbtuper day","two-way collar, collar",natural gas,2017,",,settlementperiod",,3.32,",collars,weightedaverageceilingprice"
+9,NBL20170214,2.50,",collars,weightedaverageshort put price",2.80,",collars,weightedaveragefloorprice",70000,",,mmbtuper day","three-way collar, collar",natural gas,2018,",,settlementperiod",,3.76,",collars,weightedaverageceilingprice"

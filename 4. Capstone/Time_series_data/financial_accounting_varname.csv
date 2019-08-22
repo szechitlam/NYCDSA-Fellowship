@@ -1,0 +1,807 @@
+variable,explanation
+TIC,Ticker Symbol
+CONM,Company Name
+GVKEY,Global Company Key
+DATADATE,Data Date
+FYEAR,Data Year - Fiscal
+CITY,City
+EIN,Employer Identification Number
+FYRC,Current Fiscal Year End Month
+IPODATE,Company Initial Public Offering Date
+LOC,Current ISO Country Code - Headquarters
+NAICS,North American Industry Classification Code
+SIC,Standard Industry Classification Code
+STATE,State/Province
+CUSIP,CUSIP
+CIK,CIK Number
+EXCHG,Stock Exchange Code
+FYR,Fiscal Year-end Month
+FIC,Current ISO Country Code - Incorporation
+ACCO,Acceptances Outstanding
+ACDO,Current Assets of Discontinued Operations
+ACO,Current Assets - Other - Total
+ACODO,Other Current Assets Excl Discontinued Operations
+ACOMINC,Accumulated Other Comprehensive Income (Loss)
+ACOX,Current Assets - Other - Sundry
+ACOXAR,Current Assets - Other - Total As Reported
+ACT,Current Assets - Total
+AEDI,Accrued Expenses and Deferred Income
+ALDO,Long-term Assets of Discontinued Operations
+AO,Assets - Other
+AOCIDERGL,Accum Other Comp Inc - Derivatives Unrealized Gain/Loss
+AOCIOTHER,Accum Other Comp Inc - Other Adjustments
+AOCIPEN,Accum Other Comp Inc - Min Pension Liab Adj
+AOCISECGL,Accum Other Comp Inc - Unreal G/L Ret Int in Sec Assets
+AODO,Other Assets excluding Discontinued Operations
+AOX,Assets - Other - Sundry
+AP,Accounts Payable - Trade
+APB,"Accounts Payable/Creditors - Brokers, Dealers, and Clearing Organizations"
+APC,Accounts Payable/Creditors - Customer
+APOFS,Accounts Payable/Creditors - Other - FS
+ARB,"Accounts Receivable/Debtors - Brokers, Dealers, and Clearing Organizations"
+ARC,Accounts Receivable/Debtors - Customer
+ARTFS,Accounts Receivable/Debtors - Total
+AT,Assets - Total
+BAST,Average Short-Term Borrowings
+BKVLPS,Book Value Per Share
+CA,Customers'' Acceptance
+CAPS,Capital Surplus/Share Premium Reserve
+CB,Compensating Balance
+CEQ,Common/Ordinary Equity - Total
+CEQL,Common Equity - Liquidation Value
+CEQT,Common Equity - Tangible
+CH,Cash
+CHE,Cash and Short-Term Investments
+CHS,Cash and Deposits - Segregated
+CLD2,Capitalized Leases - Due in 2nd Year
+CLD3,Capitalized Leases - Due in 3rd Year
+CLD4,Capitalized Leases - Due in 4th Year
+CLD5,Capitalized Leases - Due in 5th Year
+CLFC,Contingent Liabilities - Forward and Future Contracts
+CLFX,Contingent Liabilities - Foreign Exchange Commitments
+CLG,Contingent Liabilities - Guarantees
+CLIS,Contingent Liabilities - Interest Rate Swaps
+CLL,Contingent Liabilities - Letters of Credit
+CLLC,Contingent Liabilities - Loan Commitments
+CLO,Contingent Liabilities - Other
+CLRLL,Credit Loss Reserve Allocated for LDC Loans
+CLT,Contingent Liabilities - Total
+CMP,Commercial Paper
+CRV,Consolidation Reserves
+CRVNLI,Reserves for Claims (Losses) - Nonlife (Insurance)
+CSTK,Common/Ordinary Stock (Capital)
+CSTKCV,Common Stock-Carrying Value
+DC,Deferred Charges
+DCLO,Debt - Capitalized Lease Obligations
+DCOM,Deferred Compensation
+DCPSTK,Convertible Debt and Preferred Stock
+DCS,Debt - Consolidated Subsidiary
+DCVSR,Debt - Senior Convertible
+DCVSUB,Debt - Subordinated Convertible
+DCVT,Debt - Convertible
+DD,Debt - Debentures
+DD1,Long-Term Debt Due in One Year
+DD2,Debt - Due in 2nd Year
+DD3,Debt - Due in 3rd Year
+DD4,Debt - Due in 4th Year
+DD5,Debt - Due in 5th Year
+DFPAC,Deferred Policy Acquisition Costs
+DFS,Debt - Finance Subsidiary
+DLC,Debt in Current Liabilities - Total
+DLTO,Other Long-term Debt
+DLTP,Long-Term Debt - Tied to Prime
+DLTSUB,Long-Term Debt - Subordinated
+DLTT,Long-Term Debt - Total
+DM,Debt - Mortgages & Other Secured
+DN,Debt - Notes
+DPACB,Depreciation (Accumulated) - Buildings
+DPACC,Depreciation (Accumulated) - Construction in Progress
+DPACLI,Depreciation (Accumulated) - Land and Improvements
+DPACLS,Depreciation (Accumulated) - Leases
+DPACME,Depreciation (Accumulated) - Machinery and Equipment
+DPACNR,Depreciation (Accumulated) - Natural Resources
+DPACO,Depreciation (Accumulated) - Other
+DPACRE,Accumulated Depreciation of RE Property
+DPACT,"Depreciation, Depletion and Amortization (Accumulated)"
+DPDC,Deposits - Demand - Customer
+DPLTB,Deposits - Long-Term Time - Bank
+DPSC,Deposits - Savings - Customer
+DPSTB,Deposits - Short-Term Demand - Bank
+DPTB,Deposits - Total - Banks
+DPTC,Deposits - Total - Customer
+DPTIC,Deposits - Time - Customer
+DPVIEB,Depreciation (Accumulated) - Ending Balance (Schedule VI)
+DPVIO,Depreciation (Accumulated) - Other Changes (Schedule VI)
+DPVIR,Depreciation (Accumulated) - Retirements (Schedule VI)
+DRC,Deferred Revenue - Current
+DRCI,Deduction From Policy and Claims Reserves for Reinsurance Ceded
+DRLT,Deferred Revenue - Long-term
+DS,Debt-Subordinated
+DUDD,Debt - Unamortized Debt Discount and Other
+DVPA,Preferred Dividends in Arrears
+DVPIBB,Depreciation (Accumulated) - Beginning Balance (Schedule VI)
+DXD2,Debt (excl Capitalized Leases) - Due in 2nd Year
+DXD3,Debt (excl Capitalized Leases) - Due in 3rd Year
+DXD4,Debt (excl Capitalized Leases) - Due in 4th Year
+DXD5,Debt (excl Capitalized Leases) - Due in 5th Year
+EA,Exchange Adjustments (Assets)
+ESOPCT,Common ESOP Obligation - Total
+ESOPDLT,ESOP Debt - Long Term
+ESOPNR,Preferred ESOP Obligation - Non-Redeemable
+ESOPR,Preferred ESOP Obligation - Redeemable
+ESOPT,Preferred ESOP Obligation - Total
+EXCADJ,Exchange Adjustments (Liabilities)
+FATB,"Property, Plant, and Equipment - Buildings at Cost"
+FATC,"Property, Plant, and Equipment - Construction in Progress at Cost"
+FATE,"Property, Plant, and Equipment - Machinery and Equipment at Cost"
+FATL,"Property, Plant, and Equipment - Leases at Cost"
+FATN,"Property, Plant, and Equipment - Natural Resources at Cost"
+FATO,"Property, Plant, and Equipment - Other at Cost"
+FATP,"Property, Plant, and Equipment - Land and Improvements at Cost"
+FDFR,Federal Funds Purchased
+FEA,Foreign Exchange Assets
+FEL,Foreign Exchange Liabilities
+FFS,Federal Funds Sold
+GDWL,Goodwill
+GEQRV,Grants - Equity Reserves
+GOVGR,Government Grants
+IAEQ,Investment Assets - Equity Securities (Insurance)
+IAEQCI,Investment Assets (Insurance) - Equity Securities (Cost)
+IAEQMI,Investment Assets (Insurance) - Equity Securities (Market)
+IAFICI,Investment Assets (Insurance) - Fixed Income Securities (Cost)
+IAFXI,Investment Assets - Fixed Income Securities (Insurance)
+IAFXMI,Investment Assets (Insurance) - Fixed Income Securities (Market)
+IALI,Investment Assets (Insurance) - Listed Securities-Total
+IALOI,Investment Assets - Loans - Other (Insurance)
+IALTI,Investment Assets - Loans - Total (Insurance)
+IAMLI,Investment Assets - Mortgage Loans (Insurance)
+IAOI,Investment Assets - Other (Insurance)
+IAPLI,Investment Assets - Policy Loans (Insurance)
+IAREI,Investment Assets - Real Estate (Insurance)
+IASCI,Investment Assets (Insurance) - Securities - Sundry (Cost)
+IASMI,Investment Assets (Insurance) - Securities - Sundry (Market)
+IASSI,Investment Assets - Securities - Sundry (Insurance)
+IASTI,Investment Assets - Securities - Total (Insurance)
+IATCI,Investment Assets (Insurance) - Securities - Total (Cost)
+IATI,Investment Assets - Total (Insurance)
+IATMI,Investment Assets (Insurance) - Securities - Total (Market)
+IAUI,Investment Assets (Insurance) - Unlisted Securities - Total
+ICAPT,Invested Capital - Total
+INTAN,Intangible Assets - Total
+INTANO,Other Intangibles
+INVFG,Inventories - Finished Goods
+INVO,Inventories - Other
+INVOFS,Inventory/Stock - Other
+INVREH,Inventory/Stock - Real Estate Held for Development
+INVREI,Inventory/Stock - Real Estate Under Development
+INVRES,Inventory/Stock - Real Estate Held for Sale
+INVRM,Inventories - Raw Materials
+INVT,Inventories - Total
+INVWIP,Inventories - Work In Process
+IP,Investment Property
+IPC,Investment Property (Cost)
+IPV,Investment Property (Valuation)
+ISEQ,Investment Securities - Equity
+ISEQC,Investment Securities - Equity (Cost)
+ISEQM,Investment Securities - Equity (Market)
+ISFI,Investment Securities - Fixed Income
+ISFXC,Investment Securities - Fixed Income (Cost)
+ISFXM,Investment Securities - Fixed Income (Market)
+ISLG,Investment Securities - Local Governments
+ISLGC,Investment Securities - Local Governments (Cost)
+ISLGM,Investment Securities - Local Governments (Market)
+ISLT,Investment Securities - Listed - Total
+ISNG,Investment Securities - National Governments
+ISNGC,Investment Securities - National Governments (Cost)
+ISNGM,Investment Securities - National Governments (Market)
+ISOTC,Invetsment Securities - Other (Cost)
+ISOTH,Investment Securities - Other
+ISOTM,Invetsment Securities - Other (Market)
+ISSC,Investment Securities - Sundry (Cost)
+ISSM,Investment Securities - Sundry (Market)
+ISSU,Investment Securities - Sundry
+IST,Investment Securities -Total
+ISTC,Investment Securities - Total (Cost)
+ISTM,Investment Securities - Total (Market)
+ISUT,Investment Securities - Unlisted - Total
+ITCB,Investment Tax Credit (Balance Sheet)
+IVAEQ,Investment and Advances - Equity
+IVAO,Investment and Advances - Other
+IVGOD,Investments Grants and Other Deductions
+IVPT,Investments - Permanent - Total
+IVST,Short-Term Investments - Total
+LCABG,Loans/Claims/Advances - Banks and Government - Total
+LCACL,Loans/Claims/Advances - Commercial
+LCACR,Loans/Claims/Advances - Consumer
+LCAG,Loans/Claims/Advances - Government
+LCAL,Loans/Claims/Advances - Lease
+LCALT,Loans/Claims/Advances - Long-Term (Banks)
+LCAM,Loans/Claims/Advances - Mortgage
+LCAO,Loans/Claims/Advances - Other
+LCAST,Loans/Claims/Advances - Short-Term - Banks
+LCAT,Loans/Claims/Advances - Total
+LCO,Current Liabilities - Other - Total
+LCOX,Current Liabilities - Other - Sundry
+LCOXAR,Current Liabilities - Other - Total As Reported
+LCOXDR,Current Liabilities - Other - Excluding Deferred Revenue
+LCT,Current Liabilities - Total
+LCUACU,Loans/Claims/Advances - Customer - Total
+LIF,Life Insurance in Force
+LIFR,LIFO Reserve
+LLOML,LDC Loans Outstanding - Medium and Long-Term
+LLOO,LDC Loans Outstanding - Other
+LLOT,LDC Loans Outstanding - Total
+LO,Liabilities - Other - Total
+LOXDR,Liabilities - Other - Excluding Deferred Revenue
+LRV,Legal Reserves
+LS,Liabilities - Other - Sundry
+LSE,Liabilities and Stockholders Equity - Total
+LT,Liabilities - Total
+MIB,Noncontrolling Interest (Balance Sheet)
+MRC1,Rental Commitments - Minimum - 1st Year
+MRC2,Rental Commitments - Minimum - 2nd Year
+MRC3,Rental Commitments - Minimum - 3rd Year
+MRC4,Rental Commitments - Minimum - 4th Year
+MRC5,Rental Commitments - Minimum - 5th Year
+MRCT,Rental Commitments - Minimum - 5 Year Total
+MRCTA,Thereafter Portion of Leases
+MSA,Marketable Securities Adjustment
+MSVRV,Mandatory Securities Valuation Reserve (Statutory)
+MTL,Loans From Securities Finance Companies for Margin Transactions
+NAT,Nonadmitted Assets - Total (Statutory)
+NP,Notes Payable - Short-Term Borrowings
+NPANL,Nonperforming Assets - Nonaccrual Loans
+NPAORE,Nonperforming Assets - Other Real Estate Owned
+NPARL,Nonperforming Assets - Restructured Loans
+NPAT,Nonperforming Assets - Total
+OB,Order Backlog
+OPTPRCCA,Options Cancelled - Price
+OPTPRCEX,Options Exercised - Price
+OPTPRCEY,Options Outstanding End of Year - Price
+OPTPRCGR,Options Granted - Price
+OPTPRCWA,Options Exercisable - Weighted Avg Price
+PPEGT,"Property, Plant and Equipment - Total (Gross)"
+PPENB,"Property, Plant, and Equipment - Buildings (Net)"
+PPENC,"Property, Plant, and Equipment - Construction in Progress (Net)"
+PPENLI,"Property, Plant, and Equipment - Land and Improvements (Net)"
+PPENLS,"Property, Plant, and Equipment - Leases (Net)"
+PPENME,"Property, Plant, and Equipment - Machinery and Equipment (Net)"
+PPENNR,"Property, Plant, and Equipment - Natural Resources (Net)"
+PPENO,"Property, Plant, and Equipment - Other (Net)"
+PPENT,"Property, Plant and Equipment - Total (Net)"
+PPEVBB,"Property, Plant and Equipment - Beginning Balance (Schedule V)"
+PPEVEB,"Property, Plant, and Equipment - Ending Balance (Schedule V)"
+PPEVO,"Property, Plant, and Equipment - Other Changes (Schedule V)"
+PPEVR,"Property, Plant and Equipment - Retirements (Schedule V)"
+PRC,Participation Rights Certificates
+PRODV,Proposed Dividends
+PRVT,Policy Reserves - Total (Statutory)
+PSTK,Preferred/Preference Stock (Capital) - Total
+PSTKC,Preferred Stock - Convertible
+PSTKL,Preferred Stock - Liquidating Value
+PSTKN,Preferred/Preference Stock - Nonredeemable
+PSTKR,Preferred/Preference Stock - Redeemable
+PSTKRV,Preferred Stock - Redemption Value
+PVCL,Provision - Credit Losses (Balance Sheet)
+PVPL,Provision - Pension Liabilities
+PVT,Provisions - Total
+RADP,Reinsurance Assets - Deposits and Other (Insurance)
+RAGR,Resale Agreements
+RARI,Reinsurance Assets - Receivable/Debtors (Insurance)
+RATI,Reinsurance Assets - Total (Insurance)
+RCL,Reserves for Credit Losses (Assets)
+RDP,Regulatory Deposits
+RE,Retained Earnings
+REA,Retained Earnings - Restatement
+REAJO,Retained Earnings - Other Adjustments
+RECCO,Receivables - Current - Other
+RECD,Receivables - Estimated Doubtful
+RECT,Receivables - Total
+RECTA,Retained Earnings - Cumulative Translation Adjustment
+RECTR,Receivables - Trade
+RECUB,Unbilled Receivables
+RET,Total RE Property
+REUNA,Retained Earnings - Unadjusted
+REUNR,Retained Earnings - Unrestricted
+RLL,Reserve for Loan/Asset Losses
+RLO,Reinsurance Liabilities - Other
+RLP,Reinsurance Liabilities - Payables/Creditors
+RLRI,Reinsurers'' Liability for Reserves (Insurance)
+RLT,Reinsurance Liabilities - Total
+RPAG,Repurchase Agreements
+RREPS,Reversal - Restructuring/Acq Basic EPS Effect
+RVBCI,Reserves for Benefits - Life - Claims (Insurance)
+RVBPI,Reserves for Benefits - Life - Policy (Insurance)
+RVBTI,Reserves for Benefits - Life - Total (Insurance)
+RVDO,Reserves - Distributable - Other
+RVDT,Reserves - Distributable - Total
+RVEQT,Equity Reserves - Total
+RVLRV,Revaluation Reserve
+RVNO,Reserves - Nondistributable - Other
+RVNT,Reserves - Nondistributable - Total
+RVRI,Reserves - Reinsurance (Insurance)
+RVSI,Reserves - Sundry (Insurance)
+RVTI,Reserves - Total
+RVTXR,Reserves - Tax-Regulated
+RVUPI,Reserves for Unearned Premiums (Insurance)
+RVUTX,Reserves - Untaxed
+SAA,Separate Account Assets
+SAL,Separate Account Liabilities
+SBDC,Securities Borrowed and Deposited by Customers
+SC,Securities In Custody
+SCO,Share Capital - Other
+SECU,Securities Gains (Losses) - Unrealized
+SEQ,Stockholders Equity - Parent
+SEQO,Other Stockholders- Equity Adjustments
+SRT,Surplus - Total (Statutory)
+SSNP,Securities Sold Not Yet Purchased
+STBO,Short-Term Borrowings - Other
+STIO,Short-Term Investments - Other
+TDSCD,Trading/Dealing Account Securities - Corporate Debt
+TDSCE,Trading/Dealing Account Securities - Corporate Equity
+TDSLG,Trading/Dealing Account Securities - Local Governments
+TDSMM,Trading/Dealing Account Securities - Money Market
+TDSNG,Trading/Dealing Account Securities - National Governments
+TDSO,Trading/Dealing Account Securities - Other
+TDSS,Trading/Dealing Account Securities - Sundry
+TDST,Trading/Dealing Account Securities - Total
+TLCF,Tax Loss Carry Forward
+TRANSA,Cumulative Translation Adjustment
+TSA,Treasury Stock (Assets)
+TSO,Treasury Stock - Other Share Capital
+TSTK,Treasury Stock - Total (All Capital)
+TSTKC,Treasury Stock - Common
+TSTKME,Treasury Stock Book Value - Memo Entry
+TSTKP,Treasury Stock - Preferrred
+TXDB,Deferred Taxes (Balance Sheet)
+TXDBA,Deferred Tax Asset - Long Term
+TXDBCA,Deferred Tax Asset - Current
+TXDBCL,Deferred Tax Liability - Current
+TXDITC,Deferred Taxes and Investment Tax Credit
+TXNDB,Net Deferred Tax Asset (Liab) - Total
+TXNDBA,Net Deferred Tax Asset
+TXNDBL,Net Deferred Tax Liability
+TXNDBR,Deferred Tax Residual
+TXP,Income Taxes Payable
+TXR,Income Tax Refund
+UAOX,Other Assets - Utility
+UAPT,Accounts Payable - Utility
+UCAPS,Paid in Capital - Other
+UCCONS,Contributions in Aid of Construction
+UCEQ,Common Equity Total - Utility
+UCUSTAD,Customer Advances for Construction
+UDCOPRES,Deferred Credits and Operating Reserves - Other
+UDD,Debt (Debentures)
+UDMB,Debt (Mortgage Bonds) - Utility
+UDOLT,Debt (Other Long-Term) - Utility
+UDPCO,Debt (Pollution Control Obligations) - Utility
+UI,Unearned Income
+UINVT,Inventories - Utility
+ULCM,Current Liabilities - Miscellaneous
+ULCO,Current Liabilities - Other - Utility
+UNL,Unappropriated Net Loss
+UNNP,Unappropriated Net Profit (Stockholders'' Equity)
+UNNPL,Unappropriated Net Profit
+UOPRES,Operating Reserves
+UPMCSTK,Premium on Common Stock*
+UPMPF,Premium on Preferred Stock*
+UPMPFS,Premium on Preference Stock*
+UPMSUBP,Premium on Subsidiary Preferred Stock*
+UPSTK,Preferred Stock at Carrying Value
+UPSTKC,Preference Stock at Carrying Value*
+UPSTKSF,Preferred/Preference Stock Sinking Fund Requirement
+URECT,Receivables (Net)
+URECTR,Accounts Receivable - Trade - Utility
+UREVUB,Accrued Unbilled Revenues (Balance Sheet)
+USUBPSTK,Subsidiary Preferred Stock at Carrying Value
+VPAC,Investments - Permanent - Associated Companies
+VPO,Investments - Permanent - Other
+WCAP,Working Capital (Balance Sheet)
+XACC,Accrued Expenses
+XPP,Prepaid Expenses
+ACCHG,Accounting Changes - Cumulative Effect
+ADPAC,Amortization of Deferred Policy Acquisition Costs
+AM,Amortization of Intangibles
+AMDC,Amortization of Deferred Charges
+AMGW,Amortization of Goodwill
+AQA,Acquisition/Merger After-tax
+AQD,Acquisition/Merger Diluted EPS Effect
+AQEPS,Acquisition/Merger Basic EPS Effect
+AQI,Acquisitions - Income Contribution
+AQP,Acquisition/Merger Pretax
+AQS,Acquisitions - Sales Contribution
+ARCE,As Reported Core - After-tax
+ARCED,As Reported Core - Diluted EPS Effect
+ARCEEPS,As Reported Core - Basic EPS Effect
+AUTXR,Appropriations to Untaxed Reserves
+BALR,Benefits Assumed - Life
+BANLR,Benefits Assumed - Nonlife
+BATR,Benefits Assumed - Total
+BCEF,"Brokerage, Clearing and Exchange Fees"
+BCLR,Benefits Ceded - Life
+BCLTBL,Benefits and Claims - Total (Business Line)
+BCNLR,Benefits Ceded - Nonlife
+BCRBL,Benefits and Claims - Reinsurance (Business Line)
+BCT,Benefits and Claims - Total (Insurance)
+BCTBL,Benefits and Claims - Other (Business Line)
+BCTR,Benefits Ceded - Total
+BLTBL,Benefits - Life - Total (Business Line)
+CBI,Claims Incurred - Insurance
+CDPAC,Capitalized Deferred Polcy Acquisition Costs
+CFBD,Commissions and Fees - (Broker/Dealer)
+CFERE,Commissions and Fees - (Real Estate)
+CFO,Commissions and Fees - Other
+CFPDO,Commissions and Fees Paid - Other
+CGA,Capital Gains - After-Tax
+CGRI,Capital Gains - Realized (Insurance)
+CGTI,Capital Gains - Total (Insurance)
+CGUI,Capital Gains - Unrealized (Insurance)
+CIBEGNI,Comp Inc - Beginning Net Income
+CICURR,Comp Inc - Currency Trans Adj
+CIDERGL,Comp Inc - Derivative Gains/Losses
+CIOTHER,Comp Inc - Other Adj
+CIPEN,Comp Inc - Minimum Pension Adj
+CISECGL,Comp Inc - Securities Gains/Losses
+CITOTAL,Comprehensive Income - Parent
+CNLTBL,Claims - Non-Life - Total (Business Line)
+COGS,Cost of Goods Sold
+CPCBL,Commercial Property and Casualty Claims (Business Line)
+CPDOI,Claims Paid - Other
+CPNLI,Claims Paid - Non-Life
+CPPBL,Commercial Property and Casualty Premiums (Business Line)
+CPREI,Claims Paid - Reinsurance
+CSTKE,Common Stock Equivalents - Dollar Savings
+DBI,Death Benefits - Insurance
+DFXA,Depreciation of Tangible Fixed Assets
+DILADJ,Dilution Adjustment
+DILAVX,Dilution Available - Excluding Extraordinary Items
+DO,Discontinued Operations
+DONR,Nonrecurring Disc Operations
+DP,Depreciation and Amortization
+DPRET,Depr/Amort of Property
+DTEA,Extinguishment of Debt After-tax
+DTED,Extinguishment of Debt Diluted EPS Effect
+DTEEPS,Extinguishment of Debt Basic EPS Effect
+DTEP,Extinguishment of Debt Pretax
+DVC,Dividends Common/Ordinary
+DVDNP,Dividends Declared and Not Provided
+DVP,Dividends - Preferred/Preference
+DVPD,Cash Dividends Paid
+DVPDP,Dividends and Bonuses Paid Policyholders
+DVRPIV,Dividends Received from Permanent Investments
+DVRRE,Development Revenue (Real Estate)
+DVSCO,Dividends - Share Capital - Other
+DVT,Dividends - Total
+EBIT,Earnings Before Interest and Taxes
+EBITDA,Earnings Before Interest
+EIEA,Equity in Earnings - After-Tax
+EMOL,Directors'' Emoluments
+EPSFI,Earnings Per Share (Diluted) - Including Extraordinary Items
+EPSFX,Earnings Per Share (Diluted) - Excluding Extraordinary Items
+EPSPI,Earnings Per Share (Basic) - Including Extraordinary Items
+EPSPX,Earnings Per Share (Basic) - Excluding Extraordinary Items
+ESUB,Equity in Earnings - Unconsolidated Subsidiaries
+FATD,Fixed Assets and Investments - Disposals - Gain (Loss)
+FCA,Foreign Exchange Income (Loss)
+FFO,Funds From Operations (REIT)
+GBBL,Group Benefits (Business Line)
+GDWLAM,Goodwill Amortization
+GDWLIA,Impairments of Goodwill After-tax
+GDWLID,Impairments of Goodwill Diluted EPS Effect
+GDWLIEPS,Impairments of Goodwill Basic EPS Effect
+GDWLIP,Impairments of Goodwill Pretax
+GLA,Gain/Loss After-tax
+GLCEA,Gain/Loss on Sale (Core Earnings Adjusted) After-tax
+GLCED,Gain/Loss on Sale (Core Earnings Adjusted) Diluted EPS
+GLCEEPS,Gain/Loss on Sale (Core Earnings Adjusted) Basic EPS Effect
+GLCEP,Gain/Loss on Sale (Core Earnings Adjusted) Pretax
+GLD,Gain/Loss Diluted EPS Effect
+GLEPS,Gain/Loss Basic EPS Effect
+GLP,Gain/Loss Pretax
+GP,Gross Profit (Loss)
+GPHBL,Group Premiums - Health (Business Line)
+GPLBL,Group Premiums - Life (Business Line)
+GPOBL,Group Premiums - Other (Business Line)
+GPRBL,Group Premiums - Retirement Benefits (Business Line)
+GPTBL,Group Premiums - Total (Business Line)
+GWO,Goodwill Written Off
+HEDGEGL,Gain/Loss on Ineffective Hedges
+IB,Income Before Extraordinary Items
+IBADJ,Income Before Extraordinary Items - Adjusted for Common Stock Equivalents
+IBBL,Individual Benefits (Business Line)
+IBCOM,Income Before Extraordinary Items - Available for Common
+IBKI,Investment Banking Income
+IDIIS,Interest and Dividend Income - Investment Securities
+IDILB,Interest and Dividend Income - Loans/Claims/Advances - Banks
+IDILC,Interest and Dividend Income - Loans/Claims/Advances - Customers
+IDIS,Interest and Dividend Income - Sundry
+IDIST,Interest and Dividend Income - Short-Term Investments
+IDIT,Interest and Related Income - Total
+IDITS,Interest and Dividend Income - Trading Securities
+IIRE,Investment Income (Real Estate)
+INITB,Income - Non-interest - Total (Bank)
+INTC,Interest Capitalized
+IOBD,Income - Other (Broker Dealer)
+IOI,Income - Other (Insurance)
+IORE,Income - Other (Real Estate)
+IPABL,Individual Premiums - Annuity (Business Line)
+IPHBL,Individual Premiums - Health (Business Line)
+IPLBL,Individual Premiums - Life (Business Line)
+IPOBL,Individual Premiums - Other (Business Line)
+IPTBL,Individual Premiums - Total (Business Line)
+IPTI,Insurance Premiums - Total (Insurance)
+IREI,Interest and Related Income - Reinsurance (Insurance)
+IRENT,Rental Income
+IRII,Interest and Related Income (Insurance)
+IRLI,Interest and Related Income - Life (Insurance)
+IRNLI,Interest and Related Income - Non-Life (Insurance)
+IRSI,Interest and Related Income - Sundry (Insurance)
+ISGR,Investment Securities - Gain (Loss) - Realized
+ISGT,Investment Securities - Gain (Loss) - Total
+ISGU,Investment Securities - Gain (Loss) - Unrealized
+ITCI,Investment Tax Credit (Income Account)
+IVI,Investment Income - Total (Insurance)
+LI,Leasing Income
+LLRCI,Loan Loss Recoveries - Credited to Income
+LLRCR,Loan Loss Recoveries - Credited to Reserves
+LLWOCI,Loan Loss Written Off - Charged to Income
+LLWOCR,Loan Loss Written Off - Charged to Reserves
+LST,Life Insurance Surrenders and Terminations
+MII,Noncontrolling Interest (Income Account)
+NCO,Net Charge-Offs
+NFSR,Non-Financial Services Revenue
+NI,Net Income (Loss)
+NIADJ,Net Income Adjusted for Common/Ordinary Stock (Capital) Equivalents
+NIECI,Net Income Effect Capitalized Interest
+NIINT,Net Interest Income
+NIIT,Net Interest Income (Tax Equivalent)
+NIM,Net Interest Margin
+NIO,Net Items - Other
+NIT,Net Item - Total
+NITS,Net Income - Total (Statutory)
+NOPI,Nonoperating Income (Expense)
+NOPIO,Nonoperating Income (Expense) - Other
+NRTXT,Nonrecurring Income Taxes After-tax
+NRTXTD,Nonrecurring Income Tax Diluted EPS Effect
+NRTXTEPS,Nonrecurring Income Tax Basic EPS Effect
+OIADP,Operating Income After Depreciation
+OIBDP,Operating Income Before Depreciation
+OPEPS,Earnings Per Share from Operations
+OPILI,Operating Income - Life
+OPINCAR,Operating Income - As Reported
+OPINI,Operating Income - Non-Life
+OPIOI,Operating Income - Other
+OPIRI,Operating Income - Reinsurance
+OPITI,Operating Income - Total
+OPREPSX,Earnings Per Share - Diluted - from Operations
+PALR,Premiums Assumed - Life
+PANLR,Premiums Assumed - Nonlife
+PATR,Premiums Assumed - Total
+PCL,Provision - Credit Losses (Income Account)
+PCLR,Premiums Ceded - Life
+PCNLR,Premiums Ceded - Nonlife
+PCTR,Premiums Ceded - Total
+PI,Pretax Income
+PIDOM,Pretax Income - Domestic
+PIFO,Pretax Income - Foreign
+PLL,Provision for Loan/Asset Losses
+PLTBL,Premiums - Life - Total (Business Line)
+PNCA,Core Pension Adjustment
+PNCAD,Core Pension Adjustment Diluted EPS Effect
+PNCAEPS,Core Pension Adjustment Basic EPS Effect
+PNCIA,Core Pension Interest Adjustment After-tax
+PNCID,Core Pension Interest Adjustment Diluted EPS Effect
+PNCIEPS,Core Pension Interest Adjustment Basic EPS Effect
+PNCIP,Core Pension Interest Adjustment Pretax
+PNCWIA,Core Pension w/o Interest Adjustment After-tax
+PNCWID,Core Pension w/o Interest Adjustment Diluted EPS Effect
+PNCWIEPS,Core Pension w/o Interest Adjustment Basic EPS Effect
+PNCWIP,Core Pension w/o Interest Adjustment Pretax
+PNLBL,Premiums - Nonlife - Total (Business Line)
+PNLI,Premiums Written - Non-Life
+POBL,Premiums - Other (Business Line)
+PPCBL,Personal Property and Casualty Claims (Business Line)
+PPPABL,Personal Property and Casualty Premiums - Automobile (Business Line)
+PPPHBL,Personal Property and Casualty Premiums - Homeowners (Business Line)
+PPPOBL,Personal Property and Casualty Premiums - Other (Business Line)
+PPPTBL,Personal Property & Casualty Premiums - Total (Business Line)
+PRCA,Core Post Retirement Adjustment
+PRCAD,Core Post Retirement Adjustment Diluted EPS Effect
+PRCAEPS,Core Post Retirement Adjustment Basic EPS Effect
+PREBL,Premiums - Reinsurance (Business Line)
+PRI,Premiums Written - Reinsurance
+PTBL,Premiums - Total (Business Line)
+PTRAN,Principal Transactions
+PVO,Provision - Other
+PVON,Provisions - Other (Net)
+PWOI,Premiums Written - Other
+RCA,Restructuring Costs After-tax
+RCD,Restructuring Costs Diluted EPS Effect
+RCEPS,Restructuring Costs Basic EPS Effect
+RCP,Restructuring Costs Pretax
+RDIP,In Process R&D Expense
+RDIPA,In Process R&D Expense After-tax
+RDIPD,In Process R&D Expense Diluted EPS Effect
+RDIPEPS,In Process R&D Expense Basic EPS Effect
+REVT,Revenue - Total
+RIS,Revenue/Income - Sundry
+RMUM,Auditors'' Remuneraton
+RRA,Reversal - Restructruring/Acquisition Aftertax
+RRD,Reversal - Restructuring/Acq Diluted EPS Effect
+RRP,Reversal - Restructruring/Acquisition Pretax
+SALE,Sales/Turnover (Net)
+SETA,Settlement (Litigation/Insurance) After-tax
+SETD,Settlement (Litigation/Insurance) Diluted EPS Effect
+SETEPS,Settlement (Litigation/Insurance) Basic EPS Effect
+SETP,Settlement (Litigation/Insurance) Pretax
+SPCE,S&P Core Earnings
+SPCED,S&P Core Earnings EPS Diluted
+SPCEEPS,S&P Core Earnings EPS Basic
+SPI,Special Items
+SPID,Other Special Items Diluted EPS Effect
+SPIEPS,Other Special Items Basic EPS Effect
+SPIOA,Other Special Items After-tax
+SPIOP,Other Special Items Pretax
+SRET,Gain/Loss on Sale of Property
+STKCO,Stock Compensation Expense
+STKCPA,After-tax stock compensation
+TDSG,Trading/Dealing Securities - Gain (Loss)
+TF,Trust Fees
+TIE,Interest Expense - Total (Financial Services)
+TII,Interest Income - Total (Financial Services)
+TXC,Income Taxes - Current
+TXDFED,Deferred Taxes-Federal
+TXDFO,Deferred Taxes-Foreign
+TXDI,Income Taxes - Deferred
+TXDS,Deferred Taxes-State
+TXEQA,Tax - Equivalent Adjustment
+TXEQII,Tax - Equivalent Interest Income (Gross)
+TXFED,Income Taxes - Federal
+TXFO,Income Taxes - Foreign
+TXO,Income Taxes - Other
+TXS,Income Taxes - State
+TXT,Income Taxes - Total
+TXVA,Value Added Taxes
+TXW,Excise Taxes
+UDPFA,Depreciation of Fixed Assets
+UDVP,Preferred Dividend Requirements
+UGI,Gross Income (Income Before Interest Charges)
+UNIAMI,Net Income before Extraordinary Items and after Noncontrolling Interest
+UNOPINC,Nonoperating Income (Net) - Other
+UOPI,Operating Income - Total - Utility
+UPDVP,Preference Dividend Requirements*
+USPI,Special Items
+USUBDVP,Subsidiary Preferred Dividends
+UTME,Maintenance Expense - Total
+UTXFED,Current Taxes - Federal (Operating)
+UXINST,Interest On Short-Term Debt - Utility
+UXINTD,Interest on Long-Term Debt*
+WDA,Writedowns After-tax
+WDD,Writedowns Diluted EPS Effect
+WDEPS,Writedowns Basic EPS Effect
+WDP,Writedowns Pretax
+XAD,Advertising Expense
+XAGO,Administrative and General Expense - Other
+XAGT,Administrative and General Expense - Total
+XCOM,Communications Expense
+XCOMI,Commissions Expense (Insurance)
+XDEPL,Depletion Expense (Schedule VI)
+XDP,Depreciation Expense (Schedule VI)
+XDVRE,Expense - Development (Real Estate)
+XEQO,Equipment and Occupancy Expense
+XI,Extraordinary Items
+XIDO,Extraordinary Items and Discontinued Operations
+XINDB,Interest Expense - Deposits - Banks
+XINDC,Interest Expense - Deposits - Customer
+XINS,Interest Expense - Sundry
+XINST,Interest Expense - Short-Term Borrowings
+XINT,Interest and Related Expense - Total
+XINTD,Interest Expense - Long-Term Debt
+XINTOPT,Implied Option Expense
+XIVI,Investment Expense (Insurance)
+XIVRE,Expense - Investment (Real Estate)
+XLR,Staff Expense - Total
+XNBI,Other Insurance Expense
+XNF,Non-Financial Services Expense
+XNINS,Other Expense - Noninsurance
+XNITB,Expense - Noninterest - Total (Bank)
+XOBD,Expense - Other (Broker/Dealer)
+XOI,Expenses - Other (Insurance)
+XOPR,Operating Expenses - Total
+XOPRAR,Operatings Expenses - As Reported
+XOPTD,Implied Option EPS Diluted
+XOPTEPS,Implied Option EPS Basic
+XORE,Expense - Other (Real Estate)
+XPR,Pension and Retirement Expense
+XRD,Research and Development Expense
+XRENT,Rental Expense
+XS,Expense - Sundry
+XSGA,"Selling, General and Administrative Expense"
+XSTF,Staff Expense (Income Account)
+XSTFO,Staff Expense - Other
+XSTFWS,Staff Expense - Wages and Salaries
+XT,Expense - Total
+XUW,Other Underwriting Expenses - Insurance
+XUWLI,Underwriting Expense - Life
+XUWNLI,Underwriting Expense - Non-Life
+XUWOI,Underwriting Expense - Other
+XUWREI,Underwriting Expense - Reinsurance
+XUWTI,Underwriting Expense - Total
+AFUDCC,Allowance for Funds Used During Construction (Cash Flow)
+AFUDCI,Allowance for Funds Used During Construction (Investing) (Cash Flow)
+AMC,Amortization (Cash Flow) - Utility
+AOLOCH,Assets and Liabilities - Other - Net Change
+APALCH,Accounts Payable and Accrued Liabilities - Increase/(Decrease)
+AQC,Acquisitions
+CAPX,Capital Expenditures
+CAPXV,"Capital Expend Property, Plant and Equipment Schd V"
+CDVC,Cash Dividends on Common Stock (Cash Flow)
+CHECH,Cash and Cash Equivalents - Increase/(Decrease)
+DEPC,Depreciation and Depletion (Cash Flow)
+DLCCH,Current Debt - Changes
+DLTIS,Long-Term Debt - Issuance
+DLTR,Long-Term Debt - Reduction
+DPC,Depreciation and Amortization (Cash Flow)
+DV,Cash Dividends (Cash Flow)
+ESUBC,Equity in Net Loss - Earnings
+EXRE,Exchange Rate Effect
+FIAO,Financing Activities - Other
+FINCF,Financing Activities - Net Cash Flow
+FOPO,Funds from Operations - Other
+FOPOX,Funds from Operations - Other excluding Option Tax Benefit
+FOPT,Funds From Operations - Total
+FSRCO,Sources of Funds - Other
+FSRCT,Sources of Funds - Total
+FUSEO,Uses of Funds - Other
+FUSET,Uses of Funds - Total
+IBC,Income Before Extraordinary Items (Cash Flow)
+INTPN,Interest Paid - Net
+INVCH,Inventory - Decrease (Increase)
+ITCC,Investment Tax Credit - Net (Cash Flow) - Utility
+IVACO,Investing Activities - Other
+IVCH,Increase in Investments
+IVNCF,Investing Activities - Net Cash Flow
+IVSTCH,Short-Term Investments - Change
+OANCF,Operating Activities - Net Cash Flow
+PDVC,Cash Dividends on Preferred/Preference Stock (Cash Flow)
+PRSTKC,Purchase of Common and Preferred Stock
+PRSTKCC,Purchase of Common Stock (Cash Flow)
+PRSTKPC,Purchase of Preferred/Preference Stock (Cash Flow)
+RECCH,Accounts Receivable - Decrease (Increase)
+SCSTKC,Sale of Common Stock (Cash Flow)
+SIV,Sale of Investments
+SPPE,Sale of Property
+SPPIV,"Sale of Property, Plant and Equipment and Investments - Gain (Loss)"
+SPSTKC,Sale of Preferred/Preference Stock (Cash Flow)
+SSTK,Sale of Common and Preferred Stock
+TDC,Deferred Income Taxes - Net (Cash Flow)
+TSAFC,Total Sources/Applications of Funds (Cash Flow)
+TXACH,Income Taxes - Accrued - Increase/(Decrease)
+TXBCO,Excess Tax Benefit Stock Options - Cash Flow Operating
+TXBCOF,Excess Tax Benefit of Stock Options - Cash Flow Financing
+TXDC,Deferred Taxes (Cash Flow)
+TXPD,Income Taxes Paid
+UAOLOCH,Other Assets and Liabilities - Net Change (Statement of Cash Flows)
+UDFCC,Deferred Fuel - Increase (Decrease) (Statement of Cash Flows)
+UFRETSD,Funds for Retirement of Securities and Short-Term Debt (Cash Flow)
+UNWCC,Working Capital (Use) - Increase (Decrease) (Cash Flow)
+UOIS,Other Internal Sources - Net (Cash Flow)
+USTDNC,Short-Term Debt - Decrease (Increase) (Cash Flow)
+UTFDOC,Total Funds From Operations (Cash Flow)
+UTFOSC,Total Funds from Outside Sources (Cash Flow)
+UWKCAPC,Working Capital (Source) - Decrease (Increase) (Cash Flow)
+WCAPC,Working Capital Change - Other - Increase/(Decrease)
+WCAPCH,Working Capital Change - Total
+XIDOC,Extraordinary Items and Discontinued Operations (Cash Flow)
+CSHO,Common Shares Outstanding
+EMP,Employees
+PRCC_F,Price Close - Annual - Fiscal
+CONSOL,Level of Consolidation - Company Annual Descriptor
+INDFMT,Industry Format
+DATAFMT,Data Format
+POPSRC,Population Source
+CURCD,ISO Currency Code
+COSTAT,Active/Inactive Status Marker
+SPLTICRM,S&P Domestic Long Term Issuer Credit Rating
+SPSDRM,S&P Subordinated Debt Rating
+SPSTICRM,S&P Domestic Short Term Issuer Credit Rating

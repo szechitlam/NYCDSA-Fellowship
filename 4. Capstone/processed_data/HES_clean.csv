@@ -1,0 +1,28 @@
+,doc_id,datetime_1,datetime_1_type,price_1,price_1_type,vol_1,vol_1_type,instrument_type,product_type
+4,HES20070301,2007,",,maturity,",$25.85,"brent crude oil,average,selling price,",24,"brent crude oil,thousands of,barrels per day,",@,oil
+5,HES20070301,2008,",,maturity,",25.56,"brent crude oil,average,selling price,",24,"brent crude oil,thousands of,barrels per day,",@,oil
+6,HES20070301,2009,",,maturity,",25.54,"brent crude oil,average,selling price,",24,"brent crude oil,thousands of,barrels per day,",@,oil
+7,HES20070301,2010,",,maturity,",25.78,"brent crude oil,average,selling price,",24,"brent crude oil,thousands of,barrels per day,",@,oil
+8,HES20070301,2011,",,maturity,",26.37,"brent crude oil,average,selling price,",24,"brent crude oil,thousands of,barrels per day,",@,oil
+9,HES20070301,2012,",,maturity,",26.90,"brent crude oil,average,selling price,",24,"brent crude oil,thousands of,barrels per day,",@,oil
+4,HES20080227,2008,",,maturity,",$25.56,"brent crude oil,average,selling price,",24,"brent crude oil,thousands of,barrels per day,",@,oil
+5,HES20080227,2009,",,maturity,",25.54,"brent crude oil,average,selling price,",24,"brent crude oil,thousands of,barrels per day,",@,oil
+6,HES20080227,2010,",,maturity,",25.78,"brent crude oil,average,selling price,",24,"brent crude oil,thousands of,barrels per day,",@,oil
+7,HES20080227,2011,",,maturity,",26.37,"brent crude oil,average,selling price,",24,"brent crude oil,thousands of,barrels per day,",@,oil
+8,HES20080227,2012,",,maturity,",26.90,"brent crude oil,average,selling price,",24,"brent crude oil,thousands of,barrels per day,",@,oil
+3,HES20110225,,,,,,,@,oil
+4,HES20110225,,,,,,,@,
+5,HES20110225,,,,,,,swap,
+2,HES20120227,,,,,,,@,oil
+3,HES20120227,,,,,,,@,
+4,HES20120227,,,,,,,swap,
+1,HES20130228,,,,,,,@,oil
+2,HES20130228,,,,,,,@,
+3,HES20130228,,,,,,,swap,
+1,HES20140228,,,,,,,@,oil
+2,HES20140228,,,,,,,@,
+3,HES20140228,,,,,,,swap,
+1,HES20150227,,,,,,,@,"commodity, primarily crude oil "
+2,HES20150227,,,,,,,swap,"commodity, primarily crude oil "
+0,HES20160226,,,,,,,@,
+1,HES20160226,,,,,,,swap,
